@@ -1,5 +1,7 @@
 # National research metadata audits
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23498571.svg)](https://doi.org/10.5281/zenodo.23498571)
+
 How complete is the metadata that a country's research system puts into the open infrastructure?
 For each country, this project covers every repository that the country's DataCite members
 register (and measures those with DOIs), and every ORCID profile whose public affiliation to one of
@@ -155,3 +157,9 @@ cd web && npm ci && npm test && npm run dev
 Code under the [MIT License](LICENSE); the data in `data/` and the texts under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Inter (the font) under the SIL Open Font
 License 1.1. See [`NOTICE`](NOTICE).
+
+## Citation
+
+If you use these audits or their data, please cite it: see [`CITATION.cff`](CITATION.cff) or the "Cite this
+repository" button. Archived on Zenodo: concept DOI
+[10.5281/zenodo.23498571](https://doi.org/10.5281/zenodo.23498571) (always resolves to the latest version).

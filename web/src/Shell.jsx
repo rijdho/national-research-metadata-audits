@@ -1,4 +1,7 @@
 import { useEffect, useState } from "react";
+
+// The concept DOI on Zenodo (it resolves to the latest version), shown at the foot of the rail.
+const DOI = "10.5281/zenodo.23498571";
 import { LANGS, useI18n } from "./i18n/index.jsx";
 
 export const COUNTRIES = { austria: { glyph: "AT" }, netherlands: { glyph: "NL" } };
@@ -86,7 +89,8 @@ export default function Shell({ country, tabs = [], tab, go, title, children }) 
           {tr("rail.by")}<br />
           {t("rail.code")}<br />
           {t("rail.data")}<br />
-          {tr("rail.source")}
+          {tr("rail.source")}<br />
+          <a href={`https://doi.org/${DOI}`} target="_blank" rel="noopener noreferrer">DOI {DOI}</a>
         </div>
       </aside>
       {railOpen && <button className="rail-backdrop" type="button" aria-label={t("app.menuClose")} onClick={() => setRailOpen(false)} />}
