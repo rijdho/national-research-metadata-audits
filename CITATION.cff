@@ -24,7 +24,7 @@ identifiers:
 repository-code: "https://github.com/rijdho/national-research-metadata-audits"
 url: "https://rijdho.github.io/national-research-metadata-audits/"
 license: MIT
-version: "0.1.0"
+version: "0.2.0"
 date-released: "2026-10-20"
 keywords:
   - metadata quality
