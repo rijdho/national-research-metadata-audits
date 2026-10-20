@@ -1,0 +1,572 @@
+[
+  {
+    "id": "myesr",
+    "name": "European Society of Radiology",
+    "rorId": "https://ror.org/032cjs650",
+    "memberType": "consortium_organization",
+    "repoCount": 3,
+    "dois": 67977,
+    "avgCompleteness": 0.32905188287540166,
+    "software": [
+      "Custom / institutional"
+    ]
+  },
+  {
+    "id": "univie",
+    "name": "University of Vienna",
+    "rorId": "https://ror.org/03prydq77",
+    "memberType": "consortium_organization",
+    "repoCount": 4,
+    "dois": 62891,
+    "avgCompleteness": 0.32340090454295356,
+    "software": [
+      "Phaidra",
+      "OJS"
+    ]
+  },
+  {
+    "id": "tug",
+    "name": "Technische Universität Graz",
+    "rorId": "https://ror.org/00d7xrm67",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 27553,
+    "avgCompleteness": 0.24452267750638168,
+    "software": [
+      "InvenioRDM"
+    ]
+  },
+  {
+    "id": "wuw",
+    "name": "WU",
+    "rorId": "https://ror.org/03yn8s215",
+    "memberType": "consortium_organization",
+    "repoCount": 4,
+    "dois": 26175,
+    "avgCompleteness": 0.4070570875223322,
+    "software": [
+      "unknown",
+      "Pure",
+      "OJS"
+    ]
+  },
+  {
+    "id": "tuw",
+    "name": "TU Wien",
+    "rorId": "https://ror.org/04d836q62",
+    "memberType": "consortium_organization",
+    "repoCount": 4,
+    "dois": 24754,
+    "avgCompleteness": 0.38369252530417775,
+    "software": [
+      "DSpace",
+      "InvenioRDM",
+      "EPrints"
+    ]
+  },
+  {
+    "id": "gozs",
+    "name": "Eurographics Association, Abt. Eurographics Publishing",
+    "rorId": "https://ror.org/00qbajd92",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 11760,
+    "avgCompleteness": 0.467609126984127,
+    "software": [
+      "DSpace"
+    ]
+  },
+  {
+    "id": "ceu",
+    "name": "Central European University Private University",
+    "rorId": "https://ror.org/02zx40v98",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 8232,
+    "avgCompleteness": 0.499807661159702,
+    "software": [
+      "DSpace"
+    ]
+  },
+  {
+    "id": "kuih",
+    "name": "The Austrian Social Science Data Archive",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 7070,
+    "avgCompleteness": 0.628017444601603,
+    "software": [
+      "Dataverse"
+    ]
+  },
+  {
+    "id": "ulbt",
+    "name": "University of Innsbruck",
+    "rorId": "https://ror.org/054pv6659",
+    "memberType": "consortium_organization",
+    "repoCount": 11,
+    "dois": 5040,
+    "avgCompleteness": 0.4280498623927493,
+    "software": [
+      "Custom / institutional",
+      "InvenioRDM",
+      "OJS",
+      "Visual Library",
+      "edu-sharing"
+    ]
+  },
+  {
+    "id": "esgar",
+    "name": "European Society of Gastrointestinal and  Abdominal Radiology",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 4012,
+    "avgCompleteness": 0.32465104685942175,
+    "software": []
+  },
+  {
+    "id": "ugraz",
+    "name": "Karl-Franzens-Universität Graz",
+    "rorId": "https://ror.org/01faaaf77",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 2928,
+    "avgCompleteness": 0.40505464480874315,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "ptnc",
+    "name": "Federal Office of Metrology and Surveying",
+    "rorId": "https://ror.org/038680g19",
+    "memberType": "direct_member",
+    "repoCount": 1,
+    "dois": 1676,
+    "avgCompleteness": 0.41512529832935563,
+    "software": [
+      "GeoNetwork"
+    ]
+  },
+  {
+    "id": "aau",
+    "name": "Alpen-Adria-Universität Klagenfurt",
+    "rorId": "https://ror.org/05q9m0937",
+    "memberType": "consortium_organization",
+    "repoCount": 3,
+    "dois": 1543,
+    "avgCompleteness": 0.35405063344989834,
+    "software": []
+  },
+  {
+    "id": "duk",
+    "name": "Donau-Universität Krems",
+    "rorId": "https://ror.org/03ef4a036",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 1189,
+    "avgCompleteness": 0.2054247266610597,
+    "software": [
+      "Fedora"
+    ]
+  },
+  {
+    "id": "mleoben",
+    "name": "Montanuniversität Leoben",
+    "rorId": "https://ror.org/02fhfw393",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 1140,
+    "avgCompleteness": 0.2654052936311001,
+    "software": [
+      "Pure"
+    ]
+  },
+  {
+    "id": "fhwg",
+    "name": "CAMPUS 02 Fachhochschule der Wirtschaft",
+    "rorId": "https://ror.org/02cms1514",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 1103,
+    "avgCompleteness": 0.41628890903596255,
+    "software": [
+      "OPUS"
+    ]
+  },
+  {
+    "id": "mdw",
+    "name": "University of Music and Performing Arts Vienna",
+    "rorId": "https://ror.org/000ymgt65",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 1003,
+    "avgCompleteness": 0.356596876038551,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "corp",
+    "name": "Competence Center of Urban and Regional Planning",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 917,
+    "avgCompleteness": 0.49981824790985097,
+    "software": [
+      "EPrints"
+    ]
+  },
+  {
+    "id": "fhv",
+    "name": "FH Vorarlberg",
+    "rorId": "https://ror.org/031wyx077",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 781,
+    "avgCompleteness": 0.4097311139564661,
+    "software": [
+      "OPUS"
+    ]
+  },
+  {
+    "id": "hnku",
+    "name": "EOX IT Services GmbH",
+    "rorId": null,
+    "memberType": "direct_member",
+    "repoCount": 1,
+    "dois": 756,
+    "avgCompleteness": 0.49206349206349204,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "nhmw",
+    "name": "Naturhistorisches Museum Wien",
+    "rorId": "https://ror.org/01tv5y993",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 734,
+    "avgCompleteness": 0.42020296174587124,
+    "software": []
+  },
+  {
+    "id": "jku",
+    "name": "Johannes Kepler University of Linz",
+    "rorId": "https://ror.org/052r2xn60",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 688,
+    "avgCompleteness": 0.4748062015503876,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "ista",
+    "name": "Institute of Science and Technology Austria",
+    "rorId": "https://ror.org/03gnh5541",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 525,
+    "avgCompleteness": 0.5996825396825397,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "ufg",
+    "name": "Kunstuniversität Linz",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 511,
+    "avgCompleteness": 0.16666666666666666,
+    "software": [
+      "Fedora"
+    ]
+  },
+  {
+    "id": "akbild",
+    "name": "Academy of Fine Arts Vienna",
+    "rorId": "https://ror.org/029djt864",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 500,
+    "avgCompleteness": 0.251,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "gba",
+    "name": "GeoSphere Austria",
+    "rorId": "https://ror.org/0181cy234",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 416,
+    "avgCompleteness": 0.4826493438905617,
+    "software": [
+      "OPUS",
+      "CKAN"
+    ]
+  },
+  {
+    "id": "sciww",
+    "name": "Science Communications World Wide",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 389,
+    "avgCompleteness": 0.25,
+    "software": []
+  },
+  {
+    "id": "vetmed",
+    "name": "Veterinärmedizinische Universität Wien",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 351,
+    "avgCompleteness": 0.26875593542260207,
+    "software": []
+  },
+  {
+    "id": "ums",
+    "name": "Universität Mozarteum Salzburg",
+    "rorId": "https://ror.org/00tfmqe91",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 230,
+    "avgCompleteness": 0.38731884057971017,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "khm",
+    "name": "KHM-Museumsverband",
+    "rorId": "https://ror.org/03h82yz49",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 216,
+    "avgCompleteness": 0.3267746913580247,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "qefw",
+    "name": "IQS - Institut des Bundes für Qualitätssicherung im österreichischen Schulwesen",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 186,
+    "avgCompleteness": 0.4270248127340824,
+    "software": []
+  },
+  {
+    "id": "fhj",
+    "name": "FH JOANNEUM Gesellschaft mbH",
+    "rorId": "https://ror.org/03kkbqm48",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 99,
+    "avgCompleteness": 0.35690235690235683,
+    "software": []
+  },
+  {
+    "id": "fhb",
+    "name": "Hochschule für Angewandte Wissenschaften Burgenland GmbH",
+    "rorId": "https://ror.org/00t6gnv18",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 79,
+    "avgCompleteness": 0.2511363636363636,
+    "software": [
+      "DSpace"
+    ]
+  },
+  {
+    "id": "ofse",
+    "name": "Österreichische Forschungsstiftung für Internationale Entwicklung",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 75,
+    "avgCompleteness": 0.3155555555555556,
+    "software": []
+  },
+  {
+    "id": "fhstp",
+    "name": "St. Pölten University of Applied Sciences",
+    "rorId": "https://ror.org/039a2re55",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 74,
+    "avgCompleteness": 0.3434684684684684,
+    "software": [
+      "Fedora"
+    ]
+  },
+  {
+    "id": "lbg",
+    "name": "Ludwig Boltzmann Gesellschaft",
+    "rorId": "https://ror.org/01v1jam04",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 59,
+    "avgCompleteness": 0.25,
+    "software": []
+  },
+  {
+    "id": "fhcw",
+    "name": "FH Campus Wien",
+    "rorId": "https://ror.org/003f4pg83",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 43,
+    "avgCompleteness": 0.22674418604651161,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "tmw",
+    "name": "Technisches Museum Wien mit Österreichischer Mediathek",
+    "rorId": "https://ror.org/04vev9295",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 40,
+    "avgCompleteness": 0.27499999999999997,
+    "software": []
+  },
+  {
+    "id": "oeaw",
+    "name": "Austrian Academy of Sciences",
+    "rorId": "https://ror.org/03anc3s24",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 32,
+    "avgCompleteness": 0.4661458333333333,
+    "software": [
+      "RADAR"
+    ]
+  },
+  {
+    "id": "cuas",
+    "name": "Fachhochschule Kärnten",
+    "rorId": "https://ror.org/036w00e23",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 31,
+    "avgCompleteness": 0.4354838709677418,
+    "software": []
+  },
+  {
+    "id": "belwien",
+    "name": "Österreichische Galerie Belvedere",
+    "rorId": "https://ror.org/036mhzk54",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 27,
+    "avgCompleteness": 0.5559210526315789,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "ihs",
+    "name": "Institut für Höhere Studien - Institute for Advanced Studies (IHS)",
+    "rorId": "https://ror.org/05ag62t55",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 17,
+    "avgCompleteness": 0.39215686274509803,
+    "software": [
+      "EPrints"
+    ]
+  },
+  {
+    "id": "mm",
+    "name": "KZ-Gedenkstätte Mauthausen | Mauthausen Memorial",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 17,
+    "avgCompleteness": 0.16666666666666666,
+    "software": [
+      "OJS"
+    ]
+  },
+  {
+    "id": "stakr",
+    "name": "Stadtarchiv Krems",
+    "rorId": "https://ror.org/030r5af82",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 8,
+    "avgCompleteness": 0.3541666666666667,
+    "software": [
+      "WordPress"
+    ]
+  },
+  {
+    "id": "abpu",
+    "name": "Anton Bruckner Private University",
+    "rorId": "https://ror.org/03rh9qr65",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 3,
+    "avgCompleteness": 0.4444444444444444,
+    "software": []
+  },
+  {
+    "id": "baw",
+    "name": "Bundesamt für Wasserwirtschaft",
+    "rorId": "https://ror.org/0405nh111",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 2,
+    "avgCompleteness": 0.375,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "oepa",
+    "name": "Österreichisches Patentamt",
+    "rorId": "https://ror.org/01w84kg34",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 0,
+    "avgCompleteness": null,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "annaccri",
+    "name": "St. Anna Children's Cancer Research Institute",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 0,
+    "avgCompleteness": null,
+    "software": []
+  },
+  {
+    "id": "vlb",
+    "name": "Vorarlberger Landesbibliothek",
+    "rorId": "https://ror.org/04ht9dx76",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 0,
+    "avgCompleteness": null,
+    "software": []
+  }
+]

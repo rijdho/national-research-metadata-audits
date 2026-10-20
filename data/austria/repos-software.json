@@ -1,0 +1,382 @@
+[
+  {
+    "id": "(unidentified)",
+    "repos": 23,
+    "dois": 22315,
+    "meanCompleteness": 0.32919260964835395,
+    "byField": {
+      "titles": 0.9505288482378951,
+      "descriptions": 0.457330392705844,
+      "subjects": 0.3111789305132951,
+      "relatedIdentifiers": 0.2639553521311692,
+      "alternateIdentifiers": 0.23572518944081958,
+      "version": 0.10697444631372285,
+      "fundingReferences": 0.08592298041994705,
+      "container": 0.15602598494944667,
+      "geoLocations": 0.021739130434782608,
+      "creators": 0.9505288482378951,
+      "creatorOrcid": 0.18685558795453816,
+      "contributors": 0.22354562444089165
+    }
+  },
+  {
+    "id": "other",
+    "repos": 11,
+    "dois": 6899,
+    "meanCompleteness": 0.4109128611025418,
+    "byField": {
+      "titles": 0.9996536796536796,
+      "descriptions": 0.5105282677603048,
+      "subjects": 0.5322813766493762,
+      "relatedIdentifiers": 0.2512667538443716,
+      "alternateIdentifiers": 0.21336643816722303,
+      "version": 0.15161325677486112,
+      "fundingReferences": 0.16285691192674723,
+      "container": 0.1851835379006557,
+      "geoLocations": 0.24385255218442206,
+      "creators": 1,
+      "creatorOrcid": 0.2466722682823497,
+      "contributors": 0.43367929008651074
+    }
+  },
+  {
+    "id": "OJS",
+    "repos": 9,
+    "dois": 1028,
+    "meanCompleteness": 0.41217890936725626,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.7242552843247287,
+      "subjects": 0.54561628431039,
+      "relatedIdentifiers": 0.1691527686531074,
+      "alternateIdentifiers": 0.579401056636829,
+      "version": 0,
+      "fundingReferences": 0.0012505645889792233,
+      "container": 0.7060816498316498,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0.2203893040613908,
+      "contributors": 0
+    }
+  },
+  {
+    "id": "DSpace",
+    "repos": 4,
+    "dois": 42866,
+    "meanCompleteness": 0.4384041605662271,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.8258768537893432,
+      "subjects": 0.7353671999434347,
+      "relatedIdentifiers": 0.23415123215588204,
+      "alternateIdentifiers": 0.5573043340499688,
+      "version": 0.0385204081632653,
+      "fundingReferences": 0.01247470244740597,
+      "container": 0.2416802790200169,
+      "geoLocations": 0,
+      "creators": 0.9999890590809628,
+      "creatorOrcid": 0.1292585693233217,
+      "contributors": 0.486227288821124
+    }
+  },
+  {
+    "id": "Custom / institutional",
+    "repos": 3,
+    "dois": 58523,
+    "meanCompleteness": 0.49298864429160866,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.6559557816244109,
+      "subjects": 0.36048226706950964,
+      "relatedIdentifiers": 0.5386405959031658,
+      "alternateIdentifiers": 0.7816639656837167,
+      "version": 0.333449720670391,
+      "fundingReferences": 0,
+      "container": 0.2814245810055866,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0.3303028705948491,
+      "contributors": 0.6339439489476739
+    }
+  },
+  {
+    "id": "InvenioRDM",
+    "repos": 3,
+    "dois": 30123,
+    "meanCompleteness": 0.4248548519358956,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.6362838119947664,
+      "subjects": 0.2942794288277023,
+      "relatedIdentifiers": 0.5253707894564397,
+      "alternateIdentifiers": 0.4699173508534113,
+      "version": 0.2642771179144647,
+      "fundingReferences": 0.2553718609781164,
+      "container": 0.07004898822792187,
+      "geoLocations": 0,
+      "creators": 0.9988869935518213,
+      "creatorOrcid": 0.3570278251473291,
+      "contributors": 0.22679405627877472
+    }
+  },
+  {
+    "id": "Fedora",
+    "repos": 3,
+    "dois": 1774,
+    "meanCompleteness": 0.2385199539320649,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.3363982148675168,
+      "subjects": 0.31981981981981983,
+      "relatedIdentifiers": 0.005906242659817092,
+      "alternateIdentifiers": 0.02498882397957251,
+      "version": 0.000560695262125035,
+      "fundingReferences": 0.0002803476310625175,
+      "container": 0.0002803476310625175,
+      "geoLocations": 0.0002803476310625175,
+      "creators": 1,
+      "creatorOrcid": 0.13740822403564204,
+      "contributors": 0.03631638366709856
+    }
+  },
+  {
+    "id": "OPUS",
+    "repos": 3,
+    "dois": 2178,
+    "meanCompleteness": 0.4912319199846266,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.9556124626547162,
+      "subjects": 0.9777532195010775,
+      "relatedIdentifiers": 0.15000537133333913,
+      "alternateIdentifiers": 0.14460355204822006,
+      "version": 0.09523809523809523,
+      "fundingReferences": 0,
+      "container": 0.2679192035328856,
+      "geoLocations": 0.9503132147648383,
+      "creators": 1,
+      "creatorOrcid": 0.0406276040078857,
+      "contributors": 0.3127103167344616
+    }
+  },
+  {
+    "id": "EPrints",
+    "repos": 3,
+    "dois": 981,
+    "meanCompleteness": 0.38656853570294986,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.6925323320817688,
+      "subjects": 0.3326063249727372,
+      "relatedIdentifiers": 0.41134751773049644,
+      "alternateIdentifiers": 0,
+      "version": 0.1347517730496454,
+      "fundingReferences": 0.3137254901960784,
+      "container": 0.3333333333333333,
+      "geoLocations": 0.014184397163120567,
+      "creators": 1,
+      "creatorOrcid": 0.32790988735919896,
+      "contributors": 0.0784313725490196
+    }
+  },
+  {
+    "id": "Pure",
+    "repos": 2,
+    "dois": 3218,
+    "meanCompleteness": 0.26384969913700906,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.40364464692482915,
+      "subjects": 0.03582945332522818,
+      "relatedIdentifiers": 0.002638405511504196,
+      "alternateIdentifiers": 0.49817767653758543,
+      "version": 0,
+      "fundingReferences": 0.0024437927663734115,
+      "container": 0,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0.2214123006833713,
+      "contributors": 0.002050113895216401
+    }
+  },
+  {
+    "id": "Phaidra",
+    "repos": 1,
+    "dois": 60695,
+    "meanCompleteness": 0.34057308399923114,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.998022901392207,
+      "subjects": 0.07422357690089794,
+      "relatedIdentifiers": 0.001070928412554576,
+      "alternateIdentifiers": 0.8937144740093912,
+      "version": 0.0003295164346321773,
+      "fundingReferences": 0,
+      "container": 0.07961117060713403,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0.0057171101408682755,
+      "contributors": 0.03418733009308839
+    }
+  },
+  {
+    "id": "unknown",
+    "repos": 1,
+    "dois": 23958,
+    "meanCompleteness": 0.353458830731558,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.1317722681359045,
+      "subjects": 0.11457550713749061,
+      "relatedIdentifiers": 0.00404875198263628,
+      "alternateIdentifiers": 0.993488605058853,
+      "version": 0,
+      "fundingReferences": 0,
+      "container": 0.00404875198263628,
+      "geoLocations": 0.000041739711161198765,
+      "creators": 1,
+      "creatorOrcid": 0,
+      "contributors": 0.9935303447700142
+    }
+  },
+  {
+    "id": "Dataverse",
+    "repos": 1,
+    "dois": 7070,
+    "meanCompleteness": 0.628017444601603,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.9943422913719944,
+      "subjects": 0.22956152758132956,
+      "relatedIdentifiers": 0.8809052333804809,
+      "alternateIdentifiers": 0.18613861386138614,
+      "version": 0.9876944837340877,
+      "fundingReferences": 0.6734087694483734,
+      "container": 0.8422913719943423,
+      "geoLocations": 0.22956152758132956,
+      "creators": 1,
+      "creatorOrcid": 0.2826025459688826,
+      "contributors": 0.2297029702970297
+    }
+  },
+  {
+    "id": "GeoNetwork",
+    "repos": 1,
+    "dois": 1676,
+    "meanCompleteness": 0.41512529832935563,
+    "byField": {
+      "titles": 1,
+      "descriptions": 1,
+      "subjects": 1,
+      "relatedIdentifiers": 0,
+      "alternateIdentifiers": 0,
+      "version": 0,
+      "fundingReferences": 0,
+      "container": 0,
+      "geoLocations": 0.9815035799522673,
+      "creators": 1,
+      "creatorOrcid": 0,
+      "contributors": 0
+    }
+  },
+  {
+    "id": "Visual Library",
+    "repos": 1,
+    "dois": 198,
+    "meanCompleteness": 0.31986531986531985,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.40404040404040403,
+      "subjects": 0.2828282828282828,
+      "relatedIdentifiers": 0.3838383838383838,
+      "alternateIdentifiers": 0.07575757575757576,
+      "version": 0.005050505050505051,
+      "fundingReferences": 0.09595959595959595,
+      "container": 0.12121212121212122,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0.4393939393939394,
+      "contributors": 0.030303030303030304
+    }
+  },
+  {
+    "id": "edu-sharing",
+    "repos": 1,
+    "dois": 188,
+    "meanCompleteness": 0.40026595744680854,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.9946808510638298,
+      "subjects": 0.6063829787234043,
+      "relatedIdentifiers": 0,
+      "alternateIdentifiers": 0,
+      "version": 1,
+      "fundingReferences": 0,
+      "container": 0,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0.05319148936170213,
+      "contributors": 0.14893617021276595
+    }
+  },
+  {
+    "id": "CKAN",
+    "repos": 1,
+    "dois": 122,
+    "meanCompleteness": 0.3176229508196721,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0,
+      "subjects": 0,
+      "relatedIdentifiers": 0.03278688524590164,
+      "alternateIdentifiers": 0,
+      "version": 0.5327868852459017,
+      "fundingReferences": 0,
+      "container": 0,
+      "geoLocations": 0.8688524590163934,
+      "creators": 1,
+      "creatorOrcid": 0.3770491803278688,
+      "contributors": 0
+    }
+  },
+  {
+    "id": "RADAR",
+    "repos": 1,
+    "dois": 32,
+    "meanCompleteness": 0.4661458333333333,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0.0625,
+      "subjects": 1,
+      "relatedIdentifiers": 0.5625,
+      "alternateIdentifiers": 0,
+      "version": 0,
+      "fundingReferences": 0.0625,
+      "container": 0.03125,
+      "geoLocations": 0.03125,
+      "creators": 1,
+      "creatorOrcid": 0.84375,
+      "contributors": 1
+    }
+  },
+  {
+    "id": "WordPress",
+    "repos": 1,
+    "dois": 8,
+    "meanCompleteness": 0.3541666666666667,
+    "byField": {
+      "titles": 1,
+      "descriptions": 0,
+      "subjects": 1,
+      "relatedIdentifiers": 0.875,
+      "alternateIdentifiers": 0.25,
+      "version": 0,
+      "fundingReferences": 0,
+      "container": 0,
+      "geoLocations": 0,
+      "creators": 1,
+      "creatorOrcid": 0,
+      "contributors": 0.125
+    }
+  }
+]

@@ -1,0 +1,433 @@
+{
+  "generatedAt": "2026-10-20",
+  "fetchedFrom": "2026-06-09",
+  "fetchedTo": "2026-10-19",
+  "view": "staff",
+  "totalInstitutions": 170,
+  "totalProfiles": 24563,
+  "uniqueProfiles": 24126,
+  "avgOverall": 0.3684683263445021,
+  "avgEmpty": 0.3702316492285144,
+  "avgRich": 0.06945405691487196,
+  "avgSelfAdded": 0.25655512839653627,
+  "fieldAverages": {
+    "biography": 0.06896551724137931,
+    "keywords": 0.12396694214876033,
+    "country": 0.2050645279485405,
+    "urls": 0.2737857753531735,
+    "employment_dated": 0.5603142938566136,
+    "employment_ror_elsewhere": 0.3250107005278927,
+    "education": 0.31942352318527867,
+    "has_works": 0.6297683507714855,
+    "works_5plus": 0.3994626063591581,
+    "works_with_doi": 0.6039571713552905,
+    "funding": 0.09322965435818101,
+    "peer_review": 0.16577779587183977
+  },
+  "categoryAverages": {
+    "identity": 0.1679456906729634,
+    "employment": 0.47447380206000894,
+    "education": 0.31942352318527867,
+    "works": 0.5443960428286441,
+    "funding": 0.09322965435818101,
+    "peer_review": 0.16577779587183977
+  },
+  "linkCounts": {
+    "current": 12566,
+    "undated-recent": 11997,
+    "undated-old": 889,
+    "past": 4642,
+    "education": 7035,
+    "other": 810,
+    "none": 0
+  },
+  "employmentIds": {
+    "here": {
+      "ROR": 27707
+    },
+    "elsewhere": {
+      "ROR": 6534,
+      "RINGGOLD": 3668,
+      "GRID": 2533,
+      "NONE": 4239,
+      "FUNDREF": 651,
+      "LEI": 2
+    },
+    "byYear": {
+      "2013": {
+        "ROR": 1,
+        "RINGGOLD": 10,
+        "NONE": 7
+      },
+      "2014": {
+        "RINGGOLD": 77,
+        "NONE": 57,
+        "GRID": 2,
+        "FUNDREF": 1
+      },
+      "2015": {
+        "RINGGOLD": 294,
+        "FUNDREF": 10,
+        "NONE": 188,
+        "ROR": 3,
+        "GRID": 7
+      },
+      "2016": {
+        "NONE": 302,
+        "RINGGOLD": 412,
+        "FUNDREF": 15,
+        "ROR": 18,
+        "GRID": 13
+      },
+      "2017": {
+        "RINGGOLD": 432,
+        "NONE": 283,
+        "GRID": 68,
+        "ROR": 30,
+        "FUNDREF": 16
+      },
+      "2018": {
+        "NONE": 239,
+        "GRID": 334,
+        "RINGGOLD": 340,
+        "FUNDREF": 18,
+        "ROR": 14
+      },
+      "2019": {
+        "RINGGOLD": 415,
+        "GRID": 497,
+        "NONE": 357,
+        "FUNDREF": 27,
+        "ROR": 27
+      },
+      "2020": {
+        "GRID": 685,
+        "NONE": 411,
+        "RINGGOLD": 558,
+        "ROR": 28,
+        "FUNDREF": 56
+      },
+      "2021": {
+        "NONE": 425,
+        "RINGGOLD": 532,
+        "GRID": 719,
+        "FUNDREF": 76,
+        "ROR": 26,
+        "LEI": 1
+      },
+      "2022": {
+        "ROR": 623,
+        "RINGGOLD": 353,
+        "FUNDREF": 197,
+        "NONE": 302,
+        "GRID": 191,
+        "LEI": 1
+      },
+      "2023": {
+        "ROR": 1126,
+        "RINGGOLD": 143,
+        "FUNDREF": 182,
+        "NONE": 390,
+        "GRID": 6
+      },
+      "2024": {
+        "NONE": 455,
+        "ROR": 1517,
+        "RINGGOLD": 14,
+        "FUNDREF": 53,
+        "GRID": 5
+      },
+      "2025": {
+        "ROR": 1639,
+        "NONE": 439,
+        "RINGGOLD": 19,
+        "GRID": 2
+      },
+      "2026": {
+        "ROR": 1482,
+        "NONE": 384,
+        "RINGGOLD": 69,
+        "GRID": 4
+      }
+    }
+  },
+  "undatedRecentSince": 2024,
+  "byType": {
+    "education": {
+      "label": "Education (ROR)",
+      "color": "#3b82f6",
+      "count": 91,
+      "totalProfiles": 23190,
+      "avgOverall": 0.36510169613339116,
+      "avgEmpty": 0.37485985338507977,
+      "avgRich": 0.06921086675291074,
+      "categoryAverages": {
+        "identity": 0.16746442432082795,
+        "employment": 0.46765847347994827,
+        "education": 0.3154376886589047,
+        "works": 0.5400459968377168,
+        "funding": 0.09292798620094868,
+        "peer_review": 0.16597671410090556
+      },
+      "linkCounts": {
+        "current": 11632,
+        "undated-recent": 11558,
+        "undated-old": 826,
+        "past": 4205,
+        "education": 6956,
+        "other": 715,
+        "none": 0
+      },
+      "employmentIds": {
+        "here": {
+          "ROR": 26269
+        },
+        "elsewhere": {
+          "ROR": 5971,
+          "RINGGOLD": 3423,
+          "NONE": 4005,
+          "GRID": 2400,
+          "FUNDREF": 593,
+          "LEI": 2
+        },
+        "byYear": {
+          "2013": {
+            "ROR": 1,
+            "RINGGOLD": 10,
+            "NONE": 7
+          },
+          "2014": {
+            "NONE": 56,
+            "RINGGOLD": 71,
+            "GRID": 2,
+            "FUNDREF": 1
+          },
+          "2015": {
+            "RINGGOLD": 288,
+            "ROR": 3,
+            "GRID": 7,
+            "NONE": 179,
+            "FUNDREF": 6
+          },
+          "2016": {
+            "NONE": 291,
+            "RINGGOLD": 382,
+            "FUNDREF": 12,
+            "ROR": 17,
+            "GRID": 13
+          },
+          "2017": {
+            "RINGGOLD": 411,
+            "GRID": 66,
+            "NONE": 274,
+            "ROR": 29,
+            "FUNDREF": 16
+          },
+          "2018": {
+            "GRID": 323,
+            "RINGGOLD": 310,
+            "NONE": 231,
+            "ROR": 14,
+            "FUNDREF": 16
+          },
+          "2019": {
+            "GRID": 464,
+            "NONE": 340,
+            "RINGGOLD": 380,
+            "ROR": 22,
+            "FUNDREF": 25
+          },
+          "2020": {
+            "NONE": 394,
+            "GRID": 645,
+            "RINGGOLD": 526,
+            "ROR": 28,
+            "FUNDREF": 53
+          },
+          "2021": {
+            "NONE": 411,
+            "RINGGOLD": 494,
+            "GRID": 684,
+            "FUNDREF": 69,
+            "ROR": 26,
+            "LEI": 1
+          },
+          "2022": {
+            "RINGGOLD": 325,
+            "FUNDREF": 184,
+            "NONE": 283,
+            "ROR": 561,
+            "GRID": 179,
+            "LEI": 1
+          },
+          "2023": {
+            "ROR": 1040,
+            "RINGGOLD": 132,
+            "FUNDREF": 164,
+            "NONE": 354,
+            "GRID": 6
+          },
+          "2024": {
+            "RINGGOLD": 14,
+            "ROR": 1368,
+            "NONE": 412,
+            "FUNDREF": 47,
+            "GRID": 5
+          },
+          "2025": {
+            "NONE": 413,
+            "RINGGOLD": 14,
+            "ROR": 1494,
+            "GRID": 2
+          },
+          "2026": {
+            "ROR": 1368,
+            "NONE": 360,
+            "RINGGOLD": 66,
+            "GRID": 4
+          }
+        }
+      }
+    },
+    "facility": {
+      "label": "Facility (ROR)",
+      "color": "#f59e0b",
+      "count": 79,
+      "totalProfiles": 1373,
+      "avgOverall": 0.4253307841709154,
+      "avgEmpty": 0.2920611798980335,
+      "avgRich": 0.07356154406409322,
+      "categoryAverages": {
+        "identity": 0.17607428987618354,
+        "employment": 0.5895848506919155,
+        "education": 0.38674435542607427,
+        "works": 0.6178684146637534,
+        "funding": 0.09832483612527312,
+        "peer_review": 0.16241806263656228
+      },
+      "linkCounts": {
+        "current": 934,
+        "undated-recent": 439,
+        "undated-old": 63,
+        "past": 427,
+        "education": 70,
+        "other": 78,
+        "none": 0
+      },
+      "employmentIds": {
+        "here": {
+          "ROR": 1438
+        },
+        "elsewhere": {
+          "ROR": 563,
+          "RINGGOLD": 245,
+          "GRID": 133,
+          "NONE": 234,
+          "FUNDREF": 58
+        },
+        "byYear": {
+          "2014": {
+            "RINGGOLD": 6,
+            "NONE": 1
+          },
+          "2015": {
+            "FUNDREF": 4,
+            "NONE": 9,
+            "RINGGOLD": 6
+          },
+          "2016": {
+            "NONE": 11,
+            "RINGGOLD": 30,
+            "FUNDREF": 3,
+            "ROR": 1
+          },
+          "2017": {
+            "RINGGOLD": 21,
+            "NONE": 9,
+            "GRID": 2,
+            "ROR": 1
+          },
+          "2018": {
+            "NONE": 8,
+            "GRID": 11,
+            "RINGGOLD": 30,
+            "FUNDREF": 2
+          },
+          "2019": {
+            "RINGGOLD": 35,
+            "GRID": 33,
+            "NONE": 17,
+            "FUNDREF": 2,
+            "ROR": 5
+          },
+          "2020": {
+            "GRID": 40,
+            "NONE": 17,
+            "RINGGOLD": 32,
+            "FUNDREF": 3
+          },
+          "2021": {
+            "NONE": 14,
+            "RINGGOLD": 38,
+            "GRID": 35,
+            "FUNDREF": 7
+          },
+          "2022": {
+            "ROR": 62,
+            "RINGGOLD": 28,
+            "GRID": 12,
+            "NONE": 19,
+            "FUNDREF": 13
+          },
+          "2023": {
+            "ROR": 86,
+            "NONE": 36,
+            "RINGGOLD": 11,
+            "FUNDREF": 18
+          },
+          "2024": {
+            "NONE": 43,
+            "ROR": 149,
+            "FUNDREF": 6
+          },
+          "2025": {
+            "ROR": 145,
+            "NONE": 26,
+            "RINGGOLD": 5
+          },
+          "2026": {
+            "ROR": 114,
+            "NONE": 24,
+            "RINGGOLD": 3
+          }
+        }
+      }
+    }
+  },
+  "byLink": {
+    "current": {
+      "profiles": 12566,
+      "avgOverall": 0.5069048755902074
+    },
+    "undated-recent": {
+      "profiles": 11997,
+      "avgOverall": 0.22346593592842656
+    },
+    "undated-old": {
+      "profiles": 889,
+      "avgOverall": 0.36537776527934057
+    },
+    "past": {
+      "profiles": 4642,
+      "avgOverall": 0.62075344679018
+    },
+    "education": {
+      "profiles": 7035,
+      "avgOverall": 0.5263415067519551
+    },
+    "other": {
+      "profiles": 810,
+      "avgOverall": 0.6834207818930041
+    }
+  }
+}

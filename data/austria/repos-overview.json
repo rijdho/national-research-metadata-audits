@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-10-20",
+  "dates": {
+    "listed": "2026-06-09",
+    "checked": "2026-06-09",
+    "counted": "2026-10-19",
+    "fair": "2026-10-19"
+  },
+  "totals": {
+    "providers": 52,
+    "repositories": 81,
+    "withDois": 73,
+    "totalDois": 263852,
+    "measuredRepos": 73,
+    "measuredDois": 263852,
+    "alive": 42,
+    "protected": 2,
+    "dead": 8,
+    "noUrl": 29,
+    "softwareIdentified": 54
+  },
+  "largest": {
+    "name": "University of Vienna",
+    "dois": 60695
+  },
+  "avgCompleteness": 0.38054973729067565,
+  "doiWeightedCompleteness": 0.3890103795562158,
+  "fieldAverages": {
+    "titles": 0.98436101350222,
+    "descriptions": 0.5640987776876882,
+    "subjects": 0.439702463889186,
+    "relatedIdentifiers": 0.2593578874375235,
+    "alternateIdentifiers": 0.31330839345707917,
+    "version": 0.127300456428239,
+    "fundingReferences": 0.0873109249219168,
+    "container": 0.23129459331915078,
+    "geoLocations": 0.11216330491735424,
+    "creators": 0.9843668592664507,
+    "creatorOrcid": 0.2128215012041198,
+    "contributors": 0.2505106714571791
+  },
+  "useCaseAverages": {
+    "Text": 0.6627207516930317,
+    "Identifiers": 0.2333222457742807,
+    "Connections": 0.1435896077194739,
+    "Contacts": 0.4825663439759166
+  },
+  "fairAverages": {
+    "Findable": 0.6627207516930317,
+    "Accessible": 0.5342465753424658,
+    "Interoperable": 0.2679869580712511,
+    "Reusable": 0.29574561969921
+  },
+  "fairLive": {
+    "repos": 73,
+    "overallPercent": 76.67876712328764,
+    "F": 0.8702482876712331,
+    "A": 1,
+    "I": 0.6219939117199395,
+    "R": 0.5980593607305935,
+    "checks": {
+      "F1": 1,
+      "F2": 0.4809931506849315,
+      "F3": 1,
+      "F4": 1,
+      "A1": 1,
+      "A1.1": 1,
+      "A2": 1,
+      "I1": 1,
+      "I2": 0.5902968036529681,
+      "I3": 0.2756849315068493,
+      "R1": 0.4784246575342465,
+      "R1.1": 0.5898972602739725,
+      "R1.2": 0.6615867579908676,
+      "R1.3": 0.6623287671232876
+    },
+    "metByAll": 7
+  },
+  "softwareBreakdown": [
+    {
+      "id": "(unidentified)",
+      "count": 27
+    },
+    {
+      "id": "other",
+      "count": 14
+    },
+    {
+      "id": "OJS",
+      "count": 10
+    },
+    {
+      "id": "DSpace",
+      "count": 4
+    },
+    {
+      "id": "Custom / institutional",
+      "count": 3
+    },
+    {
+      "id": "InvenioRDM",
+      "count": 3
+    },
+    {
+      "id": "Fedora",
+      "count": 3
+    },
+    {
+      "id": "OPUS",
+      "count": 3
+    },
+    {
+      "id": "EPrints",
+      "count": 3
+    },
+    {
+      "id": "Pure",
+      "count": 2
+    },
+    {
+      "id": "Phaidra",
+      "count": 1
+    },
+    {
+      "id": "unknown",
+      "count": 1
+    },
+    {
+      "id": "Dataverse",
+      "count": 1
+    },
+    {
+      "id": "GeoNetwork",
+      "count": 1
+    },
+    {
+      "id": "Visual Library",
+      "count": 1
+    },
+    {
+      "id": "edu-sharing",
+      "count": 1
+    },
+    {
+      "id": "CKAN",
+      "count": 1
+    },
+    {
+      "id": "RADAR",
+      "count": 1
+    },
+    {
+      "id": "WordPress",
+      "count": 1
+    }
+  ]
+}

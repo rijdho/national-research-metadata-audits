@@ -1,0 +1,149 @@
+{
+  "generatedAt": "2026-10-20",
+  "dates": {
+    "listed": "2026-06-22",
+    "checked": "2026-06-22",
+    "counted": "2026-10-19",
+    "fair": "2026-10-19"
+  },
+  "totals": {
+    "providers": 45,
+    "repositories": 73,
+    "withDois": 56,
+    "totalDois": 13344343,
+    "measuredRepos": 56,
+    "measuredDois": 13344343,
+    "alive": 46,
+    "protected": 2,
+    "dead": 5,
+    "noUrl": 20,
+    "softwareIdentified": 46
+  },
+  "largest": {
+    "name": "DiSSCo",
+    "dois": 12728937
+  },
+  "avgCompleteness": 0.39051955269363015,
+  "doiWeightedCompleteness": 0.5796341878102705,
+  "fieldAverages": {
+    "titles": 0.9991962692516244,
+    "descriptions": 0.5400084958218178,
+    "subjects": 0.47793945955717226,
+    "relatedIdentifiers": 0.23351941850935948,
+    "alternateIdentifiers": 0.22029473721024345,
+    "version": 0.2990942073174665,
+    "fundingReferences": 0.07081390785227894,
+    "container": 0.11037944384786784,
+    "geoLocations": 0.13973414950937588,
+    "creators": 0.999190875122247,
+    "creatorOrcid": 0.2972388357844674,
+    "contributors": 0.29882483253963954
+  },
+  "useCaseAverages": {
+    "Text": 0.672381408210205,
+    "Identifiers": 0.25096945434568985,
+    "Connections": 0.10697583373650754,
+    "Contacts": 0.5317515144821181
+  },
+  "fairAverages": {
+    "Findable": 0.672381408210205,
+    "Accessible": 0.6785714285714286,
+    "Interoperable": 0.1880645331891569,
+    "Reusable": 0.3508161346875792
+  },
+  "fairLive": {
+    "repos": 55,
+    "overallPercent": 74.95939393939395,
+    "F": 0.8535479797979798,
+    "A": 1,
+    "I": 0.5896632996632994,
+    "R": 0.576868686868687,
+    "checks": {
+      "F1": 1,
+      "F2": 0.41419191919191917,
+      "F3": 1,
+      "F4": 1,
+      "A1": 1,
+      "A1.1": 1,
+      "A2": 1,
+      "I1": 1,
+      "I2": 0.5894949494949494,
+      "I3": 0.17949494949494949,
+      "R1": 0.39176767676767676,
+      "R1.1": 0.5488383838383839,
+      "R1.2": 0.7373737373737373,
+      "R1.3": 0.6294949494949494
+    },
+    "metByAll": 7
+  },
+  "softwareBreakdown": [
+    {
+      "id": "(unidentified)",
+      "count": 27
+    },
+    {
+      "id": "other",
+      "count": 12
+    },
+    {
+      "id": "OJS",
+      "count": 5
+    },
+    {
+      "id": "Dataverse",
+      "count": 4
+    },
+    {
+      "id": "Drupal",
+      "count": 4
+    },
+    {
+      "id": "Custom / institutional",
+      "count": 3
+    },
+    {
+      "id": "DSpace",
+      "count": 3
+    },
+    {
+      "id": "Mendeley Data",
+      "count": 2
+    },
+    {
+      "id": "Figshare",
+      "count": 2
+    },
+    {
+      "id": "WordPress",
+      "count": 2
+    },
+    {
+      "id": "Pure",
+      "count": 2
+    },
+    {
+      "id": "unknown",
+      "count": 2
+    },
+    {
+      "id": "Islandora",
+      "count": 1
+    },
+    {
+      "id": "CKAN",
+      "count": 1
+    },
+    {
+      "id": "Fedora",
+      "count": 1
+    },
+    {
+      "id": "InvenioRDM",
+      "count": 1
+    },
+    {
+      "id": "GeoNode",
+      "count": 1
+    }
+  ]
+}

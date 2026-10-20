@@ -1,0 +1,417 @@
+id,name,ror,type,view,profiles,completeness,empty_share,rich_share,self_added_works_share,suppressed,category_identity,category_employment,category_education,category_works,category_funding,category_peer_review,link_current,link_undated_recent,link_undated_old,link_past,link_education,link_other,link_none
+center-for-language-studies,Center for Language Studies,https://ror.org/00gxyk415,education,all,1,,,,,true,,,,,,,,,,,,,
+european-association-of-distance-teaching-univer,European Association of Distance Teaching Universities,https://ror.org/053qcv951,education,all,3,,,,,true,,,,,,,,,,,,,
+nederlandse-vereniging-voor-tropische-geneeskund,Nederlandse Vereniging voor Tropische Geneeskunde,https://ror.org/0123yy056,facility,all,1,,,,,true,,,,,,,,,,,,,
+j-m-burgerscentrum,J.M. Burgerscentrum,https://ror.org/035jnav47,facility,all,3,,,,,true,,,,,,,,,,,,,
+netherlands-metabolomics-centre,Netherlands Metabolomics Centre,https://ror.org/00zh5wn98,facility,all,3,,,,,true,,,,,,,,,,,,,
+huizinga-instituut,Huizinga Instituut,https://ror.org/03wyamy27,education,all,3,,,,,true,,,,,,,,,,,,,
+nefrovisie,Nefrovisie,https://ror.org/03y974j42,education,all,1,,,,,true,,,,,,,,,,,,,
+oncode-institute,Oncode Institute,https://ror.org/01n92vv28,education,all,17,0.727696,0,0.470588,0.370107,false,0.367647,0.558824,0.882353,0.980392,0.529412,0.764706,11,0,0,0,1,5,0
+european-graduate-school-of-neuroscience,European Graduate School of Neuroscience,https://ror.org/00ftg6h50,education,all,2,,,,,true,,,,,,,,,,,,,
+graduate-school-neurosciences-amsterdam-rotterda,Graduate School Neurosciences Amsterdam Rotterdam,https://ror.org/0449h4696,education,all,1,,,,,true,,,,,,,,,,,,,
+transnational-university-limburg,Transnational University Limburg,https://ror.org/05f0rzm15,education,all,5,0.675833,0,0.2,0.847222,false,0.35,0.9,1,0.866667,0.2,0.2,1,0,0,0,4,0,0
+netherlands-heart-institute,Netherlands Heart Institute,https://ror.org/01mh6b283,facility,all,5,0.665,0.2,0.2,0.171367,false,0.7,0.6,0.4,0.8,0.6,0.6,1,0,0,1,0,3,0
+4tu,4TU,https://ror.org/03rsncr94,education,all,3,,,,,true,,,,,,,,,,,,,
+dutch-polymer-institute,Dutch Polymer Institute,https://ror.org/01m71fs94,facility,all,2,,,,,true,,,,,,,,,,,,,
+netherlands-institute-for-advanced-study-in-the-,Netherlands Institute for Advanced Study in the Humanities and Social Sciences,https://ror.org/04z3wz653,facility,all,25,0.651667,0.08,0.4,0.562998,false,0.5,0.6,0.88,0.893333,0.48,0.08,1,1,0,8,1,14,0
+research-institute-for-knowledge-systems,Research Institute for Knowledge Systems,https://ror.org/01mzc3z63,facility,all,1,,,,,true,,,,,,,,,,,,,
+reinwardt-academie,Reinwardt Academie,https://ror.org/01jcjpa26,education,all,3,,,,,true,,,,,,,,,,,,,
+dutch-art-institute,Dutch Art Institute,https://ror.org/023p2b446,education,all,8,0.642708,0,0.5,0.835821,false,0.6875,0.4375,1,0.791667,0.75,0,1,0,0,0,6,1,0
+qusoft,QuSoft,https://ror.org/00zq3ce72,facility,all,2,,,,,true,,,,,,,,,,,,,
+graduate-school-experimental-plant-sciences,Graduate School Experimental Plant Sciences,https://ror.org/00dztkz65,facility,all,4,,,,,true,,,,,,,,,,,,,
+netherlands-graduate-research-school-of-science-,"Netherlands Graduate Research School of Science, Technology and Modern Culture",https://ror.org/025fr4535,education,all,6,0.622917,0.166667,0.166667,0.608108,false,0.541667,0.666667,0.833333,0.833333,0.166667,0.166667,1,0,0,0,4,1,0
+african-studies-centre,African Studies Centre,https://ror.org/00ma2r948,facility,all,31,0.619758,0.064516,0.419355,0.387919,false,0.475806,0.467742,0.83871,0.83871,0.451613,0.322581,2,3,0,3,1,22,0
+netherlands-research-school-for-literary-studies,Netherlands Research School for Literary Studies,https://ror.org/04mx1wt49,education,all,6,0.599306,0.166667,0.666667,0.681481,false,0.291667,0.666667,0.833333,0.777778,0.666667,0,0,1,0,0,1,4,0
+amsterdam-institute-for-global-health-and-develo,Amsterdam Institute for Global Health and Development,https://ror.org/037n2rm85,facility,all,25,0.5985,0.12,0.28,0.270349,false,0.31,0.6,0.84,0.8,0.36,0.32,13,2,1,3,1,5,0
+netherlands-interdisciplinary-demographic-instit,Netherlands Interdisciplinary Demographic Institute,https://ror.org/04kf5kc54,facility,all,29,0.590948,0.068966,0.103448,0.330798,false,0.353448,0.724138,0.482759,0.827586,0.137931,0.413793,18,3,0,6,0,2,0
+international-institute-for-asian-studies,International Institute for Asian Studies,https://ror.org/04tz9fd40,facility,all,26,0.585256,0.153846,0.230769,0.492188,false,0.384615,0.653846,0.692308,0.782051,0.346154,0.192308,3,2,0,14,1,6,0
+hague-academy-of-international-law,Hague Academy of International Law,https://ror.org/03skjap48,education,all,108,0.578935,0.148148,0.25,0.771543,false,0.513889,0.560185,0.944444,0.740741,0.296296,0.064815,0,1,0,2,84,21,0
+meertens-institute,Meertens Institute,https://ror.org/05kaxyq51,facility,all,9,0.571296,0.111111,0.222222,0.548611,false,0.277778,0.611111,0.666667,0.814815,0.222222,0.333333,4,1,0,4,0,0,0
+open-data-infrastructure-for-social-science-and-,Open Data Infrastructure for Social Science and Economic Innovations,https://ror.org/03m8v6t10,facility,all,5,0.569167,0.4,0.2,0.73913,false,0.55,0.9,0.8,0.533333,0.2,0.2,1,1,0,1,0,2,0
+max-planck-institute-for-psycholinguistics,Max Planck Institute for Psycholinguistics,https://ror.org/00671me87,facility,all,109,0.560665,0.146789,0.201835,0.437234,false,0.263761,0.692661,0.587156,0.752294,0.229358,0.376147,35,16,5,39,7,7,0
+institute-of-physics,Institute of Physics,https://ror.org/03hxzy361,facility,all,22,0.558712,0.136364,0.136364,0.337638,false,0.204545,0.795455,0.681818,0.742424,0.181818,0.227273,10,1,0,3,8,0,0
+amsterdam-institute-for-advanced-metropolitan-so,Amsterdam Institute for Advanced Metropolitan Solutions,https://ror.org/01g0n8690,education,all,9,0.556481,0.111111,0.111111,0.373913,false,0.277778,0.666667,0.888889,0.740741,0.222222,0.111111,4,1,0,2,0,2,0
+amsterdam-public-health,Amsterdam Public Health,https://ror.org/0258apj61,facility,all,6,0.554167,0,0,0.231884,false,0.416667,0.5,0.5,0.833333,0.166667,0.333333,1,4,0,1,0,0,0
+westerdijk-fungal-biodiversity-institute,Westerdijk Fungal Biodiversity Institute,https://ror.org/030a5r161,facility,all,43,0.553779,0.139535,0.162791,0.281885,false,0.343023,0.581395,0.627907,0.790698,0.186047,0.27907,17,6,0,10,8,2,0
+qutech,QuTech,https://ror.org/04wf30j82,facility,all,45,0.553241,0.133333,0.066667,0.250853,false,0.172222,0.711111,0.488889,0.814815,0.088889,0.422222,20,2,4,18,0,1,0
+ivo-addiction-research-institute,IVO Addiction Research Institute,https://ror.org/03w498803,facility,all,1,,,,,true,,,,,,,,,,,,,
+borstkanker-onderzoek-groep,Borstkanker Onderzoek Groep,https://ror.org/04cr37s66,facility,all,2,,,,,true,,,,,,,,,,,,,
+energy-research-centre-of-the-netherlands,Energy Research Centre of the Netherlands,https://ror.org/04xa4c474,facility,all,10,0.54625,0.3,0.3,0.266667,false,0.375,0.7,0.8,0.6,0.3,0.3,0,0,0,8,1,1,0
+expertisecentrum-nederlands,Expertisecentrum Nederlands,https://ror.org/03tqe0950,education,all,3,,,,,true,,,,,,,,,,,,,
+leiden-observatory,Leiden Observatory,https://ror.org/03es66g06,facility,all,73,0.541667,0.068493,0.027397,0.101057,false,0.212329,0.671233,0.643836,0.826484,0.041096,0.178082,36,11,1,13,12,0,0
+care-and-public-health-research-institute,Care and Public Health Research Institute,https://ror.org/01930wn69,facility,all,164,0.537246,0.060976,0.042683,0.038176,false,0.393293,0.411585,0.347561,0.882114,0.060976,0.463415,0,161,0,2,1,0,0
+brightlands-materials-center,Brightlands Materials Center,https://ror.org/0360ybs31,facility,all,3,,,,,true,,,,,,,,,,,,,
+benelux-society-of-phlebology,Benelux Society of Phlebology,https://ror.org/03vf2kf90,facility,all,1,,,,,true,,,,,,,,,,,,,
+max-planck-university-of-twente-center-for-compl,Max Planck University of Twente Center for Complex Fluid Dynamics,https://ror.org/02n9d1732,facility,all,1,,,,,true,,,,,,,,,,,,,
+royal-netherlands-institute-of-southeast-asian-a,Royal Netherlands Institute of Southeast Asian and Caribbean Studies,https://ror.org/01bdv4312,facility,all,28,0.533333,0.25,0.214286,0.430303,false,0.357143,0.714286,0.571429,0.666667,0.321429,0.142857,9,4,0,11,0,4,0
+c-t-de-wit-graduate-school-for-production-ecolog,C.T. de Wit Graduate School for Production Ecology and Resource Conservation,https://ror.org/020dp5a36,education,all,3,,,,,true,,,,,,,,,,,,,
+ihe-delft-institute-for-water-education,IHE Delft Institute for Water Education,https://ror.org/030deh410,education,all,405,0.528786,0.192593,0.125926,0.383751,false,0.32716,0.562963,0.846914,0.67572,0.192593,0.266667,62,23,1,29,271,19,0
+unilever-foods-innovation-centre,Unilever Foods Innovation Centre,https://ror.org/04nq8gx07,facility,all,10,0.518333,0.1,0,0.252747,false,0.1,0.6,0.7,0.866667,0,0.1,8,0,0,2,0,0,0
+gerrit-rietveld-academy,Gerrit Rietveld Academy,https://ror.org/053jpjd80,education,all,39,0.517415,0.25641,0.282051,0.392055,false,0.480769,0.576923,0.769231,0.598291,0.410256,0.025641,5,4,1,4,22,3,0
+netherlands-institute-of-ecology,Netherlands Institute of Ecology,https://ror.org/01g25jp36,facility,all,126,0.516204,0.18254,0.087302,0.136217,false,0.234127,0.607143,0.492063,0.732804,0.103175,0.436508,56,24,1,33,9,3,0
+radboud-institute-for-molecular-life-sciences,Radboud Institute for Molecular Life Sciences,https://ror.org/01yb10j39,facility,all,22,0.514583,0.272727,0.136364,0.300448,false,0.238636,0.75,0.545455,0.666667,0.181818,0.227273,5,3,0,11,2,1,0
+van-der-waals-zeeman-institute,Van der Waals-Zeeman Institute,https://ror.org/05wag9297,facility,all,3,,,,,true,,,,,,,,,,,,,
+roosevelt-institute-for-american-studies,Roosevelt Institute for American Studies,https://ror.org/05ck1h211,facility,all,5,0.510833,0.2,0.2,0.46875,false,0.25,0.8,0.6,0.666667,0.2,0,3,0,0,0,1,1,0
+dutch-institute-for-fundamental-energy-research,Dutch Institute for Fundamental Energy Research,https://ror.org/03w5dn804,facility,all,70,0.501845,0.214286,0.057143,0.204411,false,0.239286,0.657143,0.528571,0.719048,0.057143,0.242857,43,9,1,13,2,2,0
+donders-centre-for-neuroscience,Donders Centre for Neuroscience,https://ror.org/0546zz821,facility,all,7,0.501786,0.285714,0,0.25,false,0.392857,0.785714,0.571429,0.571429,0,0.285714,5,0,0,2,0,0,0
+dutch-research-school-for-medieval-studies,Dutch Research School for Medieval Studies,https://ror.org/03bkq6a07,education,all,3,,,,,true,,,,,,,,,,,,,
+donders-institute-for-brain-cognition-and-behavi,"Donders Institute for Brain, Cognition and Behaviour",https://ror.org/053sba816,facility,all,52,0.492548,0.269231,0.134615,0.30038,false,0.264423,0.673077,0.538462,0.634615,0.153846,0.269231,29,10,0,9,3,1,0
+pharmo-institute,Pharmo Institute,https://ror.org/01wfg6h04,facility,all,10,0.489583,0.2,0,0.061086,false,0.275,0.6,0.5,0.766667,0,0.1,7,1,0,2,0,0,0
+curio,Curio,https://ror.org/00e39jm60,education,all,2,,,,,true,,,,,,,,,,,,,
+materials-innovation-institute,Materials innovation institute,https://ror.org/00fyemf28,facility,all,4,,,,,true,,,,,,,,,,,,,
+amsterdam-university-of-the-arts,Amsterdam University of the Arts,https://ror.org/04dde1554,education,all,55,0.482727,0.363636,0.2,0.38015,false,0.418182,0.7,0.690909,0.509091,0.254545,0.072727,17,4,0,9,21,4,0
+hogeschool-ipabo,Hogeschool iPabo,https://ror.org/0230zs006,education,all,5,0.479167,0.2,0.2,0.097222,false,0.15,0.6,0.4,0.733333,0.2,0.2,2,1,1,0,1,0,0
+university-of-groningen,University of Groningen,https://ror.org/012p63287,education,all,7315,0.478486,0.214491,0.066576,0.120579,false,0.283459,0.584826,0.456186,0.692823,0.088448,0.220506,3045,1330,41,1480,1362,57,0
+university-for-peace,University for Peace,https://ror.org/002fzqp75,education,all,5,0.4775,0.4,0.2,0.939024,false,0.45,0.6,0.6,0.6,0.2,0,1,1,0,0,2,1,0
+netherlands-institute-for-neuroscience,Netherlands Institute for Neuroscience,https://ror.org/05csn2x06,facility,all,102,0.475204,0.254902,0.117647,0.170127,false,0.188725,0.651961,0.509804,0.643791,0.147059,0.254902,55,13,3,25,5,1,0
+maastricht-school-of-management,Maastricht School of Management,https://ror.org/04zb8fk81,education,all,98,0.474745,0.285714,0.102041,0.561404,false,0.372449,0.520408,0.867347,0.561224,0.153061,0.163265,4,9,0,4,80,1,0
+centrum-wiskunde-informatica,Centrum Wiskunde & Informatica,https://ror.org/00x7ekv49,facility,all,139,0.473321,0.23741,0.028777,0.23209,false,0.233813,0.593525,0.438849,0.693046,0.035971,0.294964,54,33,6,40,2,4,0
+royal-academy-of-art,Royal Academy of Art,https://ror.org/00490vc18,education,all,30,0.471944,0.4,0.033333,0.609865,false,0.416667,0.733333,0.766667,0.455556,0.266667,0,9,1,0,3,16,1,0
+royal-conservatory-the-hague,Royal Conservatory The Hague,https://ror.org/01mwwwn80,education,all,36,0.470602,0.416667,0.166667,0.643382,false,0.430556,0.541667,0.888889,0.509259,0.25,0.055556,4,2,0,3,26,1,0
+royal-netherlands-institute-for-sea-research,Royal Netherlands Institute for Sea Research,https://ror.org/01gntjh03,facility,all,180,0.467245,0.238889,0.072222,0.155783,false,0.179167,0.644444,0.45,0.662963,0.088889,0.255556,83,38,3,49,4,3,0
+netherlands-pharmacovigilance-centre-lareb,Netherlands Pharmacovigilance Centre Lareb,https://ror.org/04fp8ns78,facility,all,8,0.465625,0,0,0.2,false,0.0625,0.5,0.375,0.875,0,0.125,4,4,0,0,0,0,0
+design-academy-eindhoven,Design Academy Eindhoven,https://ror.org/039vq9023,education,all,29,0.462356,0.37931,0.241379,0.528889,false,0.465517,0.672414,0.862069,0.402299,0.241379,0.068966,5,0,1,1,22,0,0
+niod-institute-for-war-holocaust-and-genocide-st,"NIOD Institute for War, Holocaust and Genocide Studies",https://ror.org/05he87q93,facility,all,35,0.461667,0.285714,0.171429,0.582022,false,0.357143,0.585714,0.485714,0.619048,0.228571,0.028571,16,2,3,10,1,3,0
+erasmus-university-rotterdam,Erasmus University Rotterdam,https://ror.org/057w15z03,education,all,3795,0.461204,0.308827,0.064032,0.101177,false,0.270158,0.639526,0.426614,0.613351,0.086957,0.267457,2034,608,20,334,773,26,0
+international-institute-of-social-studies,International Institute of Social Studies,https://ror.org/059fp9t53,education,all,18,0.460185,0.444444,0.222222,0.353591,false,0.277778,0.611111,0.833333,0.481481,0.277778,0.166667,5,1,0,0,12,0,0
+hubrecht-institute-for-developmental-biology-and,Hubrecht Institute for Developmental Biology and Stem Cell Research,https://ror.org/023qc4a07,facility,all,145,0.460086,0.206897,0.124138,0.35722,false,0.184483,0.534483,0.496552,0.703448,0.137931,0.158621,63,37,5,34,5,1,0
+amsterdam-university-of-applied-sciences,Amsterdam University of Applied Sciences,https://ror.org/00y2z2s03,education,all,423,0.455122,0.281324,0.066194,0.157694,false,0.269504,0.679669,0.401891,0.615445,0.089835,0.141844,246,59,6,36,69,7,0
+university-of-amsterdam,University of Amsterdam,https://ror.org/04dkp9463,education,all,6015,0.454506,0.2665,0.087448,0.202787,false,0.207024,0.574314,0.547132,0.632973,0.117706,0.205653,2216,1105,100,631,1876,87,0
+space-research-organisation-netherlands,Space Research Organisation Netherlands,https://ror.org/02wc0kq10,facility,all,67,0.452488,0.223881,0.014925,0.135985,false,0.149254,0.597015,0.358209,0.721393,0.029851,0.19403,31,17,1,14,3,1,0
+institute-for-atomic-and-molecular-physics,Institute for Atomic and Molecular Physics,https://ror.org/038x9td67,facility,all,82,0.452337,0.219512,0.060976,0.29388,false,0.115854,0.579268,0.378049,0.699187,0.060976,0.304878,33,24,0,21,3,1,0
+hz-university-of-applied-sciences,HZ University of Applied Sciences,https://ror.org/047cqa323,education,all,56,0.452009,0.321429,0.035714,0.403377,false,0.245536,0.642857,0.696429,0.553571,0.071429,0.160714,17,5,0,10,23,1,0
+university-medical-center-groningen,University Medical Center Groningen,https://ror.org/03cv38k47,healthcare,all,3278,0.451683,0.169311,0.041489,0.07084,false,0.270592,0.436547,0.277608,0.755135,0.056437,0.26083,1117,1482,20,580,64,15,0
+amsterdam-neuroscience,Amsterdam Neuroscience,https://ror.org/01x2d9f70,facility,all,13,0.449679,0.461538,0.230769,0.378151,false,0.211538,0.769231,0.384615,0.512821,0.230769,0.230769,7,2,0,2,0,2,0
+royal-dutch-kentalis,Royal Dutch Kentalis,https://ror.org/0175ya539,education,all,13,0.449359,0.307692,0,0.471014,false,0.346154,0.653846,0.384615,0.564103,0,0.307692,10,3,0,0,0,0,0
+international-bureau-of-fiscal-documentation,International Bureau of Fiscal Documentation,https://ror.org/00bscyw28,education,all,31,0.449328,0.387097,0.129032,0.658228,false,0.282258,0.693548,0.612903,0.526882,0.16129,0.064516,13,4,0,2,5,7,0
+huygens-institute-for-history-and-culture-of-the,Huygens Institute for History and Culture of the Netherlands,https://ror.org/04x6kq749,facility,all,54,0.448688,0.259259,0.092593,0.362113,false,0.310185,0.555556,0.537037,0.598765,0.185185,0.092593,22,10,2,13,3,4,0
+netherlands-environmental-assessment-agency,Netherlands Environmental Assessment Agency,https://ror.org/052x1hs80,facility,all,67,0.448072,0.223881,0.044776,0.163561,false,0.182836,0.544776,0.373134,0.681592,0.044776,0.313433,35,18,3,9,0,2,0
+amsterdam-university-college,Amsterdam University College,https://ror.org/03dpjfc73,education,all,71,0.444836,0.253521,0.042254,0.390285,false,0.239437,0.478873,0.802817,0.600939,0.098592,0.126761,7,7,1,4,51,1,0
+tias-school-for-business-and-society,TIAS School for Business and Society,https://ror.org/03q7ay915,education,all,45,0.443889,0.377778,0.022222,0.374517,false,0.322222,0.722222,0.533333,0.488889,0.111111,0.155556,25,7,0,2,11,0,0
+radboud-university-nijmegen,Radboud University Nijmegen,https://ror.org/016xsfp80,education,all,2943,0.443885,0.295957,0.082569,0.315393,false,0.213473,0.591913,0.556235,0.598822,0.108733,0.173972,958,526,61,445,903,50,0
+expertise-center-vocational-education,Expertise Center Vocational Education,https://ror.org/05jrbdv26,education,all,2,,,,,true,,,,,,,,,,,,,
+igrac,IGRAC,https://ror.org/00h88tf73,facility,all,5,0.4425,0.2,0,0.222222,false,0.35,0.5,0.6,0.6,0,0.2,2,1,0,2,0,0,0
+national-institute-for-subatomic-physics,National Institute for Subatomic Physics,https://ror.org/00f9tz983,facility,all,116,0.44181,0.310345,0.068966,0.027727,false,0.172414,0.706897,0.431034,0.612069,0.086207,0.086207,66,18,1,24,6,1,0
+united-nations-university-maastricht-economic-an,United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology,https://ror.org/053zwxr79,facility,all,62,0.44086,0.274194,0.096774,0.461756,false,0.241935,0.508065,0.612903,0.607527,0.112903,0.177419,9,19,0,6,26,2,0
+donders-centre-for-cognition,Donders Centre for Cognition,https://ror.org/05ft09q38,facility,all,9,0.439352,0.333333,0.111111,0.211382,false,0.138889,0.666667,0.333333,0.592593,0.111111,0.333333,5,2,0,1,0,1,0
+schothorst-feed-research,Schothorst Feed Research,https://ror.org/024h8zy86,facility,all,7,0.43869,0.428571,0,0.146226,false,0.178571,0.642857,0.571429,0.52381,0,0.428571,5,1,0,1,0,0,0
+donders-centre-for-cognitive-neuroimaging,Donders Centre for Cognitive Neuroimaging,https://ror.org/01jdz5g73,facility,all,8,0.438542,0.25,0,0.176471,false,0.0625,0.875,0.25,0.583333,0,0.25,4,1,0,2,1,0,0
+vsl-dutch-metrology-institute,VSL National Metrology Institute,https://ror.org/05ap1vt50,facility,all,20,0.436458,0.15,0.05,0.254237,false,0.1875,0.575,0.4,0.666667,0.1,0.1,9,5,1,4,1,0,0
+deltares,Deltares,https://ror.org/01deh9c76,facility,all,202,0.43618,0.29703,0.054455,0.31157,false,0.185644,0.594059,0.460396,0.60231,0.079208,0.247525,102,44,7,45,1,3,0
+utrecht-university,Utrecht University,https://ror.org/04pp8hn57,education,all,6523,0.433549,0.272267,0.076958,0.158004,false,0.193661,0.497854,0.48306,0.638203,0.103327,0.229189,1628,2006,431,736,1655,67,0
+university-of-twente,University of Twente,https://ror.org/006hf6230,education,all,3624,0.432409,0.288907,0.055188,0.136275,false,0.241998,0.482616,0.453642,0.630243,0.071192,0.265177,927,1198,159,606,712,22,0
+vrije-universiteit-amsterdam,Vrije Universiteit Amsterdam,https://ror.org/008xxew50,education,all,6191,0.430899,0.26377,0.065256,0.110111,false,0.250485,0.447827,0.431271,0.654122,0.086093,0.230819,1202,1598,975,1212,1166,38,0
+maastricht-university,Maastricht University,https://ror.org/02jz4aj89,education,all,4976,0.428529,0.288384,0.072146,0.171709,false,0.23342,0.484023,0.496584,0.617095,0.096664,0.214027,1202,1388,449,541,1351,45,0
+stichting-wetenschappelijk-onderzoek-verkeersvei,Stichting Wetenschappelijk Onderzoek Verkeersveiligheid,https://ror.org/053tsx367,facility,all,15,0.427778,0.266667,0.066667,0.194872,false,0.2,0.566667,0.4,0.622222,0.066667,0.2,9,3,0,3,0,0,0
+fryske-akademy,Fryske Akademy,https://ror.org/05fcmfe52,facility,all,14,0.426786,0.285714,0.071429,0.320755,false,0.25,0.607143,0.285714,0.642857,0.071429,0.071429,10,2,0,1,0,1,0
+tilburg-university,Tilburg University,https://ror.org/04b8v1s79,education,all,2287,0.425743,0.265413,0.059467,0.080432,false,0.270004,0.430039,0.382597,0.650197,0.081329,0.252733,459,632,464,380,331,21,0
+wageningen-university-research,Wageningen University & Research,https://ror.org/04qw24q55,education,all,4815,0.425606,0.289304,0.063759,0.144581,false,0.174559,0.509969,0.486604,0.616476,0.085981,0.244029,1375,1363,280,491,1242,64,0
+leiden-university,Leiden University,https://ror.org/027bh9e22,education,all,4907,0.423967,0.321174,0.088037,0.316335,false,0.215305,0.551253,0.547585,0.568711,0.117995,0.158141,1535,1086,76,544,1559,107,0
+hotelschool-the-hague,Hotelschool The Hague,https://ror.org/018t8yw14,education,all,20,0.423958,0.4,0.15,0.29375,false,0.1875,0.6,0.45,0.516667,0.15,0.35,13,2,1,1,3,0,0
+the-hague-centre-for-strategic-studies,The Hague Centre for Strategic Studies,https://ror.org/05ttdrn83,facility,all,9,0.423148,0.444444,0.111111,0.706468,false,0.277778,0.611111,0.555556,0.518519,0.111111,0.111111,4,2,0,2,0,1,0
+open-university-of-the-netherlands,Open University of the Netherlands,https://ror.org/018dfmf50,education,all,431,0.419944,0.290023,0.032483,0.118408,false,0.268561,0.424594,0.443155,0.632637,0.062645,0.227378,101,226,0,14,89,1,0
+instituut-voor-de-nederlandse-taal,Instituut voor de Nederlandse Taal,https://ror.org/04m5bjk54,education,all,10,0.418333,0.5,0.3,0.701299,false,0.3,0.5,0.6,0.466667,0.3,0.2,6,3,0,0,0,1,0
+netherlands-institute-for-the-study-of-crime-and,Netherlands Institute for the Study of Crime and Law Enforcement,https://ror.org/03124pm05,facility,all,39,0.417949,0.358974,0.076923,0.281573,false,0.179487,0.653846,0.384615,0.538462,0.076923,0.25641,21,9,1,6,0,2,0
+codarts-rotterdam,Codarts Rotterdam,https://ror.org/04vtvrr13,education,all,30,0.415556,0.3,0.066667,0.442105,false,0.4,0.516667,0.633333,0.511111,0.1,0,6,7,0,1,15,1,0
+netherlands-defence-academy,Netherlands Defence Academy,https://ror.org/02dnvjf04,facility,all,68,0.414522,0.235294,0.029412,0.442586,false,0.209559,0.580882,0.279412,0.632353,0.044118,0.132353,38,23,3,2,1,1,0
+leiden-university-medical-center,Leiden University Medical Center,https://ror.org/05xvt9f17,healthcare,all,1728,0.414096,0.291088,0.054977,0.200459,false,0.129919,0.584491,0.329282,0.61902,0.071759,0.209491,888,468,69,183,107,13,0
+van-hall-larenstein-university-of-applied-scienc,Van Hall Larenstein University of Applied Sciences,https://ror.org/02mdbnd10,education,all,124,0.408602,0.379032,0.040323,0.30397,false,0.25,0.564516,0.685484,0.486559,0.064516,0.129032,33,17,0,8,65,1,0
+wetenschappelijk-onderzoek-en-documentatiecentru,Wetenschappelijk Onderzoek- en Documentatiecentrum,https://ror.org/0002exf56,facility,all,6,0.40625,0.333333,0,0.790123,false,0.208333,0.75,0.5,0.5,0,0,3,1,0,2,0,0,0
+imec-the-netherlands,Imec the Netherlands,https://ror.org/01ezq2j76,facility,all,79,0.405432,0.35443,0.050633,0.229416,false,0.161392,0.556962,0.43038,0.586498,0.063291,0.151899,40,21,5,13,0,0,0
+university-of-humanistic-studies,University of Humanistic Studies,https://ror.org/04w5ec154,education,all,91,0.404762,0.307692,0.087912,0.369715,false,0.241758,0.510989,0.417582,0.556777,0.153846,0.142857,36,26,1,6,17,5,0
+nederlands-instituut-voor-zuivel-oonderzoek,Nederlands Instituut Voor Zuivel Oonderzoek,https://ror.org/05ddg7v64,facility,all,5,0.401667,0.4,0,0.5,false,0.1,0.7,0.6,0.533333,0,0,4,0,0,0,0,1,0
+stichting-aeres-groep,Stichting Aeres Groep,https://ror.org/026e19k63,education,all,5,0.400833,0.4,0,0.785714,false,0.25,0.7,0.6,0.466667,0,0,4,0,0,0,1,0,0
+wittenborg-university,Wittenborg University,https://ror.org/020z55s31,education,all,31,0.400806,0.419355,0.064516,0.542857,false,0.370968,0.483871,0.580645,0.451613,0.064516,0.258065,15,8,0,2,4,2,0
+theological-university-utrecht,Theological University Utrecht,https://ror.org/02x435584,education,all,32,0.400521,0.25,0.0625,0.2,false,0.21875,0.515625,0.40625,0.604167,0.09375,0.03125,13,12,1,0,4,2,0
+nyenrode-business-university,Nyenrode Business University,https://ror.org/018528593,education,all,133,0.399091,0.390977,0.045113,0.30979,false,0.253759,0.556391,0.43609,0.513784,0.045113,0.218045,65,26,7,7,27,1,0
+amsterdam-university-medical-centers,Amsterdam University Medical Centers,https://ror.org/05grdyy37,healthcare,all,2483,0.396124,0.323802,0.055578,0.222138,false,0.127467,0.576319,0.311317,0.577527,0.076118,0.208619,1265,786,61,239,116,16,0
+avans-university-of-applied-sciences,Avans University of Applied Sciences,https://ror.org/015d5s513,education,all,219,0.393893,0.410959,0.059361,0.285623,false,0.222603,0.611872,0.56621,0.47032,0.100457,0.068493,83,43,4,20,67,2,0
+delft-university-of-technology,Delft University of Technology,https://ror.org/02e2c7k09,education,all,7436,0.391677,0.343868,0.045051,0.177468,false,0.212446,0.462278,0.424691,0.557154,0.062399,0.236417,2092,2607,689,712,1294,42,0
+academie-verloskunde-amsterdam-groningen,Academie Verloskunde Amsterdam Groningen,https://ror.org/02nt7ap43,education,all,3,,,,,true,,,,,,,,,,,,,
+university-of-the-arts-utrecht,University of the Arts Utrecht,https://ror.org/018bzp792,education,all,32,0.391406,0.375,0.125,0.773371,false,0.296875,0.46875,0.59375,0.5,0.1875,0,5,9,1,4,12,1,0
+netherlands-center-for-occupational-diseases,Netherlands Center for Occupational Diseases,https://ror.org/00jtnvh80,facility,all,3,,,,,true,,,,,,,,,,,,,
+artez-university-of-the-arts,ArtEZ University of the Arts,https://ror.org/05az93f25,education,all,64,0.386654,0.53125,0.140625,0.693548,false,0.277344,0.601563,0.640625,0.401042,0.140625,0.0625,23,11,1,4,21,4,0
+waag-futurelab,Waag Futurelab,https://ror.org/041pa7h16,facility,all,17,0.38652,0.470588,0.058824,0.766667,false,0.191176,0.617647,0.647059,0.45098,0.058824,0.058824,8,3,1,3,0,2,0
+national-institute-for-public-health-and-the-env,National Institute for Public Health and the Environment,https://ror.org/01cesdt21,facility,all,398,0.386338,0.278894,0.020101,0.240862,false,0.089824,0.54397,0.241206,0.628141,0.027638,0.173367,190,129,18,53,4,4,0
+zuyd-university-of-applied-sciences,Zuyd University of Applied Sciences,https://ror.org/02m6k0m40,education,all,148,0.385642,0.412162,0.047297,0.537783,false,0.219595,0.601351,0.513514,0.472973,0.074324,0.081081,46,35,3,9,54,1,0
+erasmus-mc,Erasmus MC,https://ror.org/018906e22,healthcare,all,2417,0.384957,0.324783,0.045511,0.168454,false,0.130947,0.528962,0.294994,0.582265,0.056682,0.205627,1005,857,123,239,177,16,0
+university-medical-center-utrecht,University Medical Center Utrecht,https://ror.org/0575yy874,healthcare,all,1668,0.382132,0.306954,0.036571,0.179783,false,0.120953,0.496703,0.276978,0.601119,0.053957,0.211631,721,661,42,170,67,7,0
+university-of-applied-sciences-utrecht,University of Applied Sciences Utrecht,https://ror.org/028z9kw20,education,all,580,0.380912,0.415517,0.044828,0.26615,false,0.180603,0.662069,0.343103,0.483333,0.058621,0.12069,321,117,7,56,76,3,0
+eindhoven-university-of-technology,Eindhoven University of Technology,https://ror.org/02c2kyt77,education,all,3364,0.378876,0.353151,0.038347,0.208811,false,0.192999,0.454816,0.477111,0.540725,0.045184,0.174792,1233,1036,67,358,654,16,0
+windesheim-university-of-applied-sciences,Windesheim University of Applied Sciences,https://ror.org/04zmc0e16,education,all,119,0.378011,0.369748,0.042017,0.513158,false,0.210084,0.596639,0.462185,0.47619,0.058824,0.084034,52,25,4,10,26,2,0
+data-archiving-and-networked-services-dans,Data Archiving and Networked Services (DANS),https://ror.org/008pnp284,facility,all,25,0.3775,0.44,0.04,0.30131,false,0.21,0.6,0.4,0.52,0.04,0,13,5,1,5,1,0,0
+dianet,Dianet,https://ror.org/01qsyak13,facility,all,2,,,,,true,,,,,,,,,,,,,
+libra-revalidatie-audiologie,Libra Revalidatie & Audiologie,https://ror.org/04nae0247,facility,all,2,,,,,true,,,,,,,,,,,,,
+oneplanet-research-center,OnePlanet Research Center,https://ror.org/033ztn746,facility,all,2,,,,,true,,,,,,,,,,,,,
+postmaster-psychologie-opleidingen,Postmaster Psychologie Opleidingen,https://ror.org/03naar428,education,all,1,,,,,true,,,,,,,,,,,,,
+rathenau-instituut,Rathenau Instituut,https://ror.org/04crnd335,facility,all,10,0.374167,0.4,0,0.375,false,0.05,0.75,0.1,0.533333,0,0.2,8,1,0,1,0,0,0
+saxion,Saxion,https://ror.org/005t9n460,education,all,256,0.373877,0.425781,0.039063,0.447529,false,0.194336,0.619141,0.484375,0.457031,0.0625,0.0625,124,44,10,14,62,2,0
+netherlands-school-of-public-administration,Netherlands School of Public Administration,https://ror.org/033958n71,education,all,12,0.372917,0.416667,0.083333,0.411765,false,0.458333,0.5,0.416667,0.416667,0.083333,0.083333,6,4,0,1,1,0,0
+maastricht-university-medical-centre,Maastricht University Medical Centre,https://ror.org/02d9ce178,healthcare,all,487,0.371561,0.334702,0.01848,0.157905,false,0.112936,0.488706,0.246407,0.587269,0.020534,0.246407,214,203,13,26,26,5,0
+radboud-university-medical-center,Radboud University Medical Center,https://ror.org/05wg1m734,healthcare,all,1649,0.367662,0.314736,0.03396,0.19846,false,0.116131,0.472104,0.268041,0.58399,0.049121,0.197089,673,708,40,134,84,10,0
+hanze-university-of-applied-sciences,Hanze University of Applied Sciences,https://ror.org/00xqtxw43,education,all,387,0.36728,0.459948,0.041344,0.319039,false,0.189276,0.638243,0.434109,0.436693,0.064599,0.085271,186,81,7,21,91,1,0
+christelijk-gymnasium-utrecht,Christelijk Gymnasium Utrecht,https://ror.org/02gd5t807,education,all,2,,,,,true,,,,,,,,,,,,,
+han-university-of-applied-sciences,HAN University of Applied Sciences,https://ror.org/0500gea42,education,all,269,0.365675,0.423792,0.022305,0.319953,false,0.171004,0.561338,0.460967,0.473358,0.033457,0.126394,98,72,7,14,76,2,0
+the-hague-university-of-applied-sciences,The Hague University of Applied Sciences,https://ror.org/021zvq422,education,all,248,0.363676,0.459677,0.040323,0.592365,false,0.211694,0.574597,0.471774,0.428763,0.076613,0.120968,109,60,6,21,49,3,0
+tinbergen-institute,Tinbergen Institute,https://ror.org/054xxtt73,education,all,42,0.360417,0.571429,0.02381,0.144068,false,0.220238,0.595238,0.666667,0.309524,0.095238,0.238095,3,11,1,1,24,2,0
+theological-university-of-apeldoorn,Theological University of Apeldoorn,https://ror.org/03s2fjy85,education,all,20,0.360417,0.4,0.05,0.152778,false,0.175,0.55,0.4,0.483333,0.1,0.05,7,3,1,2,6,1,0
+panteia-netherlands,Panteia (Netherlands),https://ror.org/00p5j4e25,facility,all,6,0.360417,0.666667,0.166667,0.435065,false,0.291667,0.583333,0.5,0.333333,0.166667,0.166667,2,2,0,2,0,0,0
+verwey-jonker-institute,Verwey Jonker Institute,https://ror.org/017hmby02,facility,all,13,0.359295,0.461538,0,0.022222,false,0.25,0.615385,0.153846,0.435897,0.076923,0.230769,7,3,0,3,0,0,0
+netherlands-forensic-institute,Netherlands Forensic Institute,https://ror.org/04s2z4291,facility,all,49,0.357398,0.44898,0.020408,0.270175,false,0.076531,0.622449,0.265306,0.469388,0.020408,0.285714,31,14,1,3,0,0,0
+breda-university-of-applied-sciences,Breda University of Applied Sciences,https://ror.org/04mfj5474,education,all,116,0.356861,0.517241,0.051724,0.291155,false,0.247845,0.556034,0.448276,0.393678,0.094828,0.163793,51,29,3,11,20,2,0
+aeres-university-of-applied-sciences,Aeres University of Applied Sciences,https://ror.org/03jnx2c74,education,all,36,0.356713,0.5,0.111111,0.284024,false,0.152778,0.597222,0.527778,0.398148,0.138889,0.083333,14,8,0,1,12,1,0
+iselinge-hogeschool,Iselinge Hogeschool,https://ror.org/047kqmy39,education,all,5,0.3525,0.6,0.2,0.478261,false,0.35,0.4,0.4,0.4,0.2,0.2,2,3,0,0,0,0,0
+trimbos-institute,Trimbos Institute,https://ror.org/02amggm23,facility,all,27,0.349074,0.444444,0.037037,0.086614,false,0.166667,0.5,0.407407,0.481481,0.037037,0.111111,16,5,2,4,0,0,0
+fontys-university-of-applied-sciences,Fontys University of Applied Sciences,https://ror.org/01jwcme05,education,all,235,0.348209,0.489362,0.004255,0.349693,false,0.220213,0.568085,0.485106,0.405674,0.038298,0.07234,92,59,3,10,70,1,0
+centre-for-human-drug-research,Centre for Human Drug Research,https://ror.org/044hshx49,facility,all,48,0.343924,0.291667,0.020833,0.422907,false,0.072917,0.5,0.25,0.576389,0.020833,0.041667,20,18,4,5,0,1,0
+nhl-stenden-university-of-applied-sciences,NHL Stenden University of Applied Sciences,https://ror.org/02xgxme97,education,all,176,0.343632,0.482955,0.045455,0.341709,false,0.191761,0.582386,0.380682,0.410985,0.068182,0.096591,89,57,3,8,18,1,0
+reade,Reade,https://ror.org/00bp9f906,facility,all,12,0.337153,0.5,0,0.578947,false,0.145833,0.583333,0.083333,0.472222,0,0.25,7,4,0,1,0,0,0
+hfml-felix,HFML-FELIX,https://ror.org/03tkwyq76,facility,all,11,0.336364,0.454545,0.090909,0.247191,false,0.090909,0.409091,0.454545,0.454545,0.090909,0.272727,3,5,0,3,0,0,0
+university-of-applied-sciences-leiden,University of Applied Sciences Leiden,https://ror.org/0093src13,education,all,155,0.336022,0.516129,0.032258,0.307079,false,0.141935,0.583871,0.477419,0.397849,0.045161,0.064516,46,44,0,9,56,0,0
+protestant-theological-university,Protestant Theological University,https://ror.org/016w23120,education,all,42,0.334325,0.452381,0.047619,0.446237,false,0.178571,0.654762,0.261905,0.388889,0.095238,0.047619,23,8,1,2,8,0,0
+inholland-university-of-applied-sciences,Inholland University of Applied Sciences,https://ror.org/03cfsyg37,education,all,131,0.333556,0.519084,0.030534,0.52625,false,0.158397,0.587786,0.389313,0.394402,0.061069,0.091603,60,36,0,10,23,2,0
+brainclinics,Brainclinics,https://ror.org/00q8tg479,facility,all,1,,,,,true,,,,,,,,,,,,,
+driestar-christian-university,Driestar Christian University,https://ror.org/05jext738,education,all,8,0.333333,0.5,0,0.285714,false,0.125,0.6875,0.375,0.291667,0.25,0.125,5,2,0,0,1,0,0
+marnix-academie,Marnix Academie,https://ror.org/03xws5b35,education,all,8,0.318229,0.5,0,0.416667,false,0.34375,0.5,0.5,0.333333,0,0,2,2,0,1,3,0,0
+rotterdam-university-of-applied-sciences,Rotterdam University of Applied Sciences,https://ror.org/0481e1q24,education,all,214,0.318166,0.546729,0.056075,0.307393,false,0.178738,0.553738,0.420561,0.359813,0.065421,0.060748,85,62,2,14,49,2,0
+has-green-academy,HAS green academy,https://ror.org/05p706d77,education,all,59,0.317867,0.542373,0.016949,0.309598,false,0.15678,0.533898,0.525424,0.361582,0.016949,0.067797,24,11,0,1,23,0,0
+academic-center-for-dentistry-amsterdam,Academic Center for Dentistry Amsterdam,https://ror.org/04x5wnb75,education,all,145,0.309655,0.448276,0.027586,0.159735,false,0.124138,0.427586,0.248276,0.468966,0.027586,0.137931,50,72,4,6,8,5,0
+viaa-christian-university-of-applied-sciences,Viaa Christian University of Applied Sciences,https://ror.org/02ar29j81,education,all,17,0.302206,0.529412,0,0.389831,false,0.132353,0.647059,0.235294,0.352941,0,0.058824,10,7,0,0,0,0,0
+institute-for-the-study-of-education-and-human-d,Institute for the Study of Education and Human Development,https://ror.org/03hxrmn64,facility,all,1,,,,,true,,,,,,,,,,,,,
+menasseh-ben-israel-institute,Menasseh Ben Israel Institute,https://ror.org/03120tz42,facility,all,1,,,,,true,,,,,,,,,,,,,
+netherlands-institute-for-innovative-ocular-surg,Netherlands Institute for Innovative Ocular Surgery,https://ror.org/04hmqap24,facility,all,4,,,,,true,,,,,,,,,,,,,
+koning-willem-i-college,Koning Willem I College,https://ror.org/01rps2j56,education,all,7,0.285119,0.714286,0,0.285714,false,0.107143,0.642857,0.285714,0.238095,0,0.285714,3,2,0,2,0,0,0
+katholieke-pabo-zwolle,Katholieke Pabo Zwolle,https://ror.org/05nrjb178,education,all,4,,,,,true,,,,,,,,,,,,,
+leyden-academy-on-vitality-and-ageing,Leyden Academy on Vitality and Ageing,https://ror.org/00txvrc11,facility,all,17,0.283088,0.411765,0,0.293333,false,0.161765,0.352941,0.176471,0.470588,0,0.058824,5,11,0,0,0,1,0
+nti-university,NTI University,https://ror.org/025gshh98,education,all,5,0.281667,0.6,0,0.5625,false,0.3,0.3,0.6,0.333333,0,0,0,2,0,1,2,0,0
+hogeschool-de-kempel,Hogeschool de Kempel,https://ror.org/056k6yz11,education,all,1,,,,,true,,,,,,,,,,,,,
+instituut-verbeeten,Instituut Verbeeten,https://ror.org/02ymhq538,facility,all,2,,,,,true,,,,,,,,,,,,,
+habeo,Habeo+,https://ror.org/003meye08,education,all,15,0.26,0.733333,0,0.375,false,0.2,0.466667,0.6,0.2,0.066667,0,3,4,0,0,8,0,0
+international-new-town-institute,International New Town Institute,https://ror.org/027zjnr49,education,all,4,,,,,true,,,,,,,,,,,,,
+basilar-artery-international-cooperation-study,BASilar artery International Cooperation Study,https://ror.org/014dvgf17,education,all,1,,,,,true,,,,,,,,,,,,,
+ddl-diagnostic-laboratory,DDL Diagnostic Laboratory,https://ror.org/04xdr5k48,facility,all,4,,,,,true,,,,,,,,,,,,,
+rotterdam-study,Rotterdam Study,https://ror.org/02ac58f22,facility,all,6,0.23125,0.833333,0,0.090909,false,0.041667,0.75,0.166667,0.166667,0,0,3,2,0,0,1,0,0
+dutch-postgraduate-school-for-art-history,Dutch postgraduate School for Art History,https://ror.org/0265xav62,education,all,1,,,,,true,,,,,,,,,,,,,
+christian-university-of-applied-sciences,Christian University of Applied Sciences,https://ror.org/04tj5wz42,education,all,38,0.207237,0.736842,0.052632,0.357895,false,0.092105,0.5,0.210526,0.184211,0.052632,0.026316,16,16,0,0,6,0,0
+scalda,Scalda,https://ror.org/01dcz6f16,education,all,4,,,,,true,,,,,,,,,,,,,
+bertrand-russell-college,Bertrand Russell College,https://ror.org/002g6sj22,education,all,1,,,,,true,,,,,,,,,,,,,
+bonaventuracollege,Bonaventuracollege,https://ror.org/03nk3sc73,education,all,2,,,,,true,,,,,,,,,,,,,
+institute-for-theoretical-physics-amsterdam,Institute for Theoretical Physics Amsterdam,https://ror.org/011p0ty46,facility,all,1,,,,,true,,,,,,,,,,,,,
+national-initiative-brain-cognition,National Initiative Brain & Cognition,https://ror.org/0460chp58,facility,all,1,,,,,true,,,,,,,,,,,,,
+sprint,SPRINT,https://ror.org/01jbeyb43,facility,all,1,,,,,true,,,,,,,,,,,,,
+via-vinci-academy,Via Vinci Academy,https://ror.org/026rmnx29,education,all,1,,,,,true,,,,,,,,,,,,,
+alfa-college,Alfa College,https://ror.org/030ms0k96,education,all,10,0.14,1,0,0,false,0,0.7,0,0,0,0,7,3,0,0,0,0,0
+medicines-evaluation-board,Medicines Evaluation Board,https://ror.org/05mv4rb84,education,all,381,0.138922,0.939633,0.002625,0.233871,false,0.017717,0.582677,0.041995,0.04287,0.002625,0.002625,222,157,1,1,0,0,0
+parnassia-groep-academie,Parnassia Groep Academie,https://ror.org/029pyqp16,education,all,10,0.131667,0.7,0,0.5,false,0,0.2,0.1,0.233333,0,0,2,8,0,0,0,0,0
+top-institute-pharma,Top Institute Pharma,https://ror.org/01qmxzb47,facility,all,7,0.125,1,0,0,false,0.071429,0.571429,0,0,0,0,4,3,0,0,0,0,0
+friesland-college,Friesland College,https://ror.org/02fq0hm69,education,all,1,,,,,true,,,,,,,,,,,,,
+holland-chemistry,Holland Chemistry,https://ror.org/007bss615,facility,all,2,,,,,true,,,,,,,,,,,,,
+institute-for-high-energy-physics,Institute for High Energy Physics,https://ror.org/04y6n3q27,facility,all,4,,,,,true,,,,,,,,,,,,,
+institute-for-social-sciences-and-humanities-iss,Institute for Social Sciences and Humanities - ISSH (Iran Academia),https://ror.org/017xhef20,education,all,2,,,,,true,,,,,,,,,,,,,
+nectaerra,Nectaerra,https://ror.org/0072ngz93,facility,all,3,,,,,true,,,,,,,,,,,,,
+citylab010,CityLab010,https://ror.org/01qyj4j90,facility,all,1,,,,,true,,,,,,,,,,,,,
+institute-for-programming-research-and-algorithm,Institute for Programming research and Algorithmics,https://ror.org/04jxbkz90,education,all,2,,,,,true,,,,,,,,,,,,,
+international-research-universities-network,International Research Universities Network,https://ror.org/04484bb06,education,all,1,,,,,true,,,,,,,,,,,,,
+middelbaar-beroeps-onderwijs,Middelbaar Beroeps Onderwijs,https://ror.org/004pfc251,education,all,1,,,,,true,,,,,,,,,,,,,
+netherlands-graduate-school-of-linguistics,Netherlands Graduate School of Linguistics,https://ror.org/05dbptw67,education,all,1,,,,,true,,,,,,,,,,,,,
+terra,Terra,https://ror.org/01dn09e98,education,all,2,,,,,true,,,,,,,,,,,,,
+udens-college,Udens College,https://ror.org/04ryr8437,education,all,1,,,,,true,,,,,,,,,,,,,
+dutch-art-institute,Dutch Art Institute,https://ror.org/023p2b446,education,staff,1,,,,,true,,,,,,,,,,,,,
+transnational-university-limburg,Transnational University Limburg,https://ror.org/05f0rzm15,education,staff,1,,,,,true,,,,,,,,,,,,,
+oncode-institute,Oncode Institute,https://ror.org/01n92vv28,education,staff,11,0.699621,0,0.363636,0.371638,false,0.340909,0.5,0.818182,0.969697,0.454545,0.818182,11,0,0,0,1,5,0
+research-institute-for-knowledge-systems,Research Institute for Knowledge Systems,https://ror.org/01mzc3z63,facility,staff,1,,,,,true,,,,,,,,,,,,,
+4tu,4TU,https://ror.org/03rsncr94,education,staff,1,,,,,true,,,,,,,,,,,,,
+netherlands-interdisciplinary-demographic-instit,Netherlands Interdisciplinary Demographic Institute,https://ror.org/04kf5kc54,facility,staff,21,0.564683,0.095238,0.047619,0.333333,false,0.357143,0.738095,0.380952,0.793651,0.095238,0.380952,18,3,0,6,0,2,0
+amsterdam-institute-for-global-health-and-develo,Amsterdam Institute for Global Health and Development,https://ror.org/037n2rm85,facility,staff,15,0.563056,0.133333,0.2,0.1643,false,0.25,0.666667,0.8,0.777778,0.2,0.2,13,2,1,3,1,5,0
+expertisecentrum-nederlands,Expertisecentrum Nederlands,https://ror.org/03tqe0950,education,staff,3,,,,,true,,,,,,,,,,,,,
+meertens-institute,Meertens Institute,https://ror.org/05kaxyq51,facility,staff,5,,,,,true,,,,,,,,,,,,,
+care-and-public-health-research-institute,Care and Public Health Research Institute,https://ror.org/01930wn69,facility,staff,161,,,,,true,,,,,,,,,,,,,
+amsterdam-institute-for-advanced-metropolitan-so,Amsterdam Institute for Advanced Metropolitan Solutions,https://ror.org/01g0n8690,education,staff,5,,,,,true,,,,,,,,,,,,,
+qutech,QuTech,https://ror.org/04wf30j82,facility,staff,22,0.532386,0.136364,0.045455,0.171569,false,0.125,0.704545,0.409091,0.818182,0.045455,0.409091,20,2,4,18,0,1,0
+amsterdam-public-health,Amsterdam Public Health,https://ror.org/0258apj61,facility,staff,5,,,,,true,,,,,,,,,,,,,
+leiden-observatory,Leiden Observatory,https://ror.org/03es66g06,facility,staff,47,0.519238,0.06383,0.042553,0.095903,false,0.154255,0.659574,0.531915,0.815603,0.06383,0.191489,36,11,1,13,12,0,0
+donders-centre-for-neuroscience,Donders Centre for Neuroscience,https://ror.org/0546zz821,facility,staff,5,,,,,true,,,,,,,,,,,,,
+van-der-waals-zeeman-institute,Van der Waals-Zeeman Institute,https://ror.org/05wag9297,facility,staff,3,,,,,true,,,,,,,,,,,,,
+unilever-foods-innovation-centre,Unilever Foods Innovation Centre,https://ror.org/04nq8gx07,facility,staff,8,,,,,true,,,,,,,,,,,,,
+institute-of-physics,Institute of Physics,https://ror.org/03hxzy361,facility,staff,11,0.493939,0.181818,0.090909,0.097222,false,0.090909,0.818182,0.363636,0.69697,0.090909,0.272727,10,1,0,3,8,0,0
+westerdijk-fungal-biodiversity-institute,Westerdijk Fungal Biodiversity Institute,https://ror.org/030a5r161,facility,staff,23,0.490942,0.217391,0.130435,0.52506,false,0.282609,0.630435,0.434783,0.710145,0.173913,0.130435,17,6,0,10,8,2,0
+curio,Curio,https://ror.org/00e39jm60,education,staff,2,,,,,true,,,,,,,,,,,,,
+igrac,IGRAC,https://ror.org/00h88tf73,facility,staff,3,,,,,true,,,,,,,,,,,,,
+max-planck-institute-for-psycholinguistics,Max Planck Institute for Psycholinguistics,https://ror.org/00671me87,facility,staff,51,0.469853,0.235294,0.117647,0.18559,false,0.171569,0.637255,0.431373,0.647059,0.117647,0.352941,35,16,5,39,7,7,0
+ihe-delft-institute-for-water-education,IHE Delft Institute for Water Education,https://ror.org/030deh410,education,staff,85,0.466373,0.317647,0.105882,0.23587,false,0.252941,0.6,0.435294,0.615686,0.141176,0.352941,62,23,1,29,271,19,0
+netherlands-pharmacovigilance-centre-lareb,Netherlands Pharmacovigilance Centre Lareb,https://ror.org/04fp8ns78,facility,staff,8,0.465625,0,0,0.2,false,0.0625,0.5,0.375,0.875,0,0.125,4,4,0,0,0,0,0
+dutch-institute-for-fundamental-energy-research,Dutch Institute for Fundamental Energy Research,https://ror.org/03w5dn804,facility,staff,52,0.463542,0.25,0.019231,0.072084,false,0.197115,0.653846,0.423077,0.679487,0.019231,0.211538,43,9,1,13,2,2,0
+international-institute-of-social-studies,International Institute of Social Studies,https://ror.org/059fp9t53,education,staff,6,0.4625,0.333333,0.333333,0.291339,false,0.25,0.583333,0.5,0.5,0.5,0.333333,5,1,0,0,12,0,0
+hotelschool-the-hague,Hotelschool The Hague,https://ror.org/018t8yw14,education,staff,15,0.455278,0.4,0.2,0.295302,false,0.183333,0.7,0.333333,0.555556,0.2,0.4,13,2,1,1,3,0,0
+radboud-institute-for-molecular-life-sciences,Radboud Institute for Molecular Life Sciences,https://ror.org/01yb10j39,facility,staff,8,0.454687,0.25,0.125,0.411765,false,0.15625,0.625,0.5,0.625,0.125,0.25,5,3,0,11,2,1,0
+royal-dutch-kentalis,Royal Dutch Kentalis,https://ror.org/0175ya539,education,staff,13,0.449359,0.307692,0,0.471014,false,0.346154,0.653846,0.384615,0.564103,0,0.307692,10,3,0,0,0,0,0
+reinwardt-academie,Reinwardt Academie,https://ror.org/01jcjpa26,education,staff,1,,,,,true,,,,,,,,,,,,,
+netherlands-institute-of-ecology,Netherlands Institute of Ecology,https://ror.org/01g25jp36,facility,staff,80,0.444844,0.2875,0.0375,0.115163,false,0.190625,0.58125,0.35,0.625,0.05,0.4125,56,24,1,33,9,3,0
+pharmo-institute,Pharmo Institute,https://ror.org/01wfg6h04,facility,staff,8,,,,,true,,,,,,,,,,,,,
+donders-institute-for-brain-cognition-and-behavi,"Donders Institute for Brain, Cognition and Behaviour",https://ror.org/053sba816,facility,staff,39,0.442415,0.282051,0.051282,0.284091,false,0.211538,0.615385,0.384615,0.623932,0.076923,0.230769,29,10,0,9,3,1,0
+university-of-groningen,University of Groningen,https://ror.org/012p63287,education,staff,4375,0.440741,0.280229,0.044343,0.06976,false,0.2584,0.630857,0.2832,0.628876,0.061486,0.212343,3045,1330,41,1480,1362,57,0
+borstkanker-onderzoek-groep,Borstkanker Onderzoek Groep,https://ror.org/04cr37s66,facility,staff,1,,,,,true,,,,,,,,,,,,,
+brightlands-materials-center,Brightlands Materials Center,https://ror.org/0360ybs31,facility,staff,1,,,,,true,,,,,,,,,,,,,
+university-medical-center-groningen,University Medical Center Groningen,https://ror.org/03cv38k47,healthcare,staff,2599,0.432373,0.202386,0.030012,0.059993,false,0.249808,0.451712,0.235475,0.716814,0.043863,0.257407,1117,1482,20,580,64,15,0
+amsterdam-university-of-applied-sciences,Amsterdam University of Applied Sciences,https://ror.org/00y2z2s03,education,staff,305,0.432036,0.318033,0.055738,0.090349,false,0.236885,0.709836,0.22623,0.598907,0.081967,0.140984,246,59,6,36,69,7,0
+erasmus-university-rotterdam,Erasmus University Rotterdam,https://ror.org/057w15z03,education,staff,2642,0.430903,0.352763,0.044285,0.075005,false,0.24366,0.650643,0.243376,0.587308,0.060182,0.283119,2034,608,20,334,773,26,0
+royal-academy-of-art,Royal Academy of Art,https://ror.org/00490vc18,education,staff,10,0.430833,0.4,0.1,0.207547,false,0.25,0.85,0.4,0.466667,0.2,0,9,1,0,3,16,1,0
+netherlands-institute-for-neuroscience,Netherlands Institute for Neuroscience,https://ror.org/05csn2x06,facility,staff,68,0.428676,0.338235,0.058824,0.212607,false,0.147059,0.669118,0.411765,0.573529,0.088235,0.220588,55,13,3,25,5,1,0
+international-institute-for-asian-studies,International Institute for Asian Studies,https://ror.org/04tz9fd40,facility,staff,5,0.4275,0.4,0.4,0.447761,false,0.25,0.4,0.4,0.6,0.4,0.2,3,2,0,14,1,6,0
+schothorst-feed-research,Schothorst Feed Research,https://ror.org/024h8zy86,facility,staff,6,,,,,true,,,,,,,,,,,,,
+netherlands-environmental-assessment-agency,Netherlands Environmental Assessment Agency,https://ror.org/052x1hs80,facility,staff,53,0.419025,0.264151,0.037736,0.157037,false,0.141509,0.528302,0.301887,0.63522,0.037736,0.358491,35,18,3,9,0,2,0
+design-academy-eindhoven,Design Academy Eindhoven,https://ror.org/039vq9023,education,staff,5,0.414167,0.6,0.4,0.533333,false,0.25,0.8,0.4,0.333333,0.4,0.2,5,0,1,1,22,0,0
+vsl-dutch-metrology-institute,VSL National Metrology Institute,https://ror.org/05ap1vt50,facility,staff,14,0.408036,0.214286,0.071429,0.121019,false,0.125,0.571429,0.285714,0.642857,0.071429,0.142857,9,5,1,4,1,0,0
+hz-university-of-applied-sciences,HZ University of Applied Sciences,https://ror.org/047cqa323,education,staff,22,0.406629,0.318182,0,0.207317,false,0.125,0.681818,0.318182,0.575758,0.045455,0.136364,17,5,0,10,23,1,0
+royal-netherlands-institute-for-sea-research,Royal Netherlands Institute for Sea Research,https://ror.org/01gntjh03,facility,staff,121,0.405957,0.322314,0.049587,0.129143,false,0.134298,0.623967,0.322314,0.575758,0.057851,0.214876,83,38,3,49,4,3,0
+centrum-wiskunde-informatica,Centrum Wiskunde & Informatica,https://ror.org/00x7ekv49,facility,staff,87,0.404167,0.321839,0.022989,0.23922,false,0.158046,0.545977,0.321839,0.597701,0.034483,0.264368,54,33,6,40,2,4,0
+space-research-organisation-netherlands,Space Research Organisation Netherlands,https://ror.org/02wc0kq10,facility,staff,48,0.403646,0.291667,0.020833,0.227395,false,0.114583,0.520833,0.291667,0.645833,0.041667,0.229167,31,17,1,14,3,1,0
+tias-school-for-business-and-society,TIAS School for Business and Society,https://ror.org/03q7ay915,education,staff,32,0.402604,0.4375,0,0.332584,false,0.21875,0.734375,0.34375,0.458333,0.09375,0.1875,25,7,0,2,11,0,0
+huygens-institute-for-history-and-culture-of-the,Huygens Institute for History and Culture of the Netherlands,https://ror.org/04x6kq749,facility,staff,32,0.39974,0.34375,0.03125,0.249267,false,0.296875,0.515625,0.375,0.541667,0.125,0.125,22,10,2,13,3,4,0
+netherlands-defence-academy,Netherlands Defence Academy,https://ror.org/02dnvjf04,facility,staff,61,0.39959,0.262295,0,0.440217,false,0.188525,0.622951,0.229508,0.606557,0.016393,0.098361,38,23,3,2,1,1,0
+university-of-amsterdam,University of Amsterdam,https://ror.org/04dkp9463,education,staff,3321,0.399221,0.324601,0.053899,0.106724,false,0.144761,0.5676,0.273111,0.591388,0.076784,0.220114,2216,1105,100,631,1876,87,0
+national-institute-for-subatomic-physics,National Institute for Subatomic Physics,https://ror.org/00f9tz983,facility,staff,84,0.39876,0.380952,0.035714,0.051504,false,0.151786,0.696429,0.345238,0.543651,0.047619,0.071429,66,18,1,24,6,1,0
+hubrecht-institute-for-developmental-biology-and,Hubrecht Institute for Developmental Biology and Stem Cell Research,https://ror.org/023qc4a07,facility,staff,100,0.397083,0.27,0.07,0.355444,false,0.125,0.52,0.36,0.626667,0.08,0.11,63,37,5,34,5,1,0
+open-university-of-the-netherlands,Open University of the Netherlands,https://ror.org/018dfmf50,education,staff,327,0.394011,0.311927,0.021407,0.116541,false,0.240061,0.388379,0.299694,0.627931,0.055046,0.250765,101,226,0,14,89,1,0
+nederlands-instituut-voor-zuivel-oonderzoek,Nederlands Instituut Voor Zuivel Oonderzoek,https://ror.org/05ddg7v64,facility,staff,4,,,,,true,,,,,,,,,,,,,
+rathenau-instituut,Rathenau Instituut,https://ror.org/04crnd335,facility,staff,9,,,,,true,,,,,,,,,,,,,
+roosevelt-institute-for-american-studies,Roosevelt Institute for American Studies,https://ror.org/05ck1h211,facility,staff,3,,,,,true,,,,,,,,,,,,,
+deltares,Deltares,https://ror.org/01deh9c76,facility,staff,146,0.388699,0.356164,0.034247,0.400354,false,0.123288,0.599315,0.335616,0.541096,0.041096,0.232877,102,44,7,45,1,3,0
+institute-for-atomic-and-molecular-physics,Institute for Atomic and Molecular Physics,https://ror.org/038x9td67,facility,staff,57,0.38867,0.263158,0.017544,0.122628,false,0.074561,0.535088,0.210526,0.637427,0.017544,0.245614,33,24,0,21,3,1,0
+niod-institute-for-war-holocaust-and-genocide-st,"NIOD Institute for War, Holocaust and Genocide Studies",https://ror.org/05he87q93,facility,staff,18,0.387963,0.388889,0.111111,0.414013,false,0.277778,0.555556,0.444444,0.481481,0.166667,0.055556,16,2,3,10,1,3,0
+royal-netherlands-institute-of-southeast-asian-a,Royal Netherlands Institute of Southeast Asian and Caribbean Studies,https://ror.org/01bdv4312,facility,staff,13,0.382372,0.538462,0.076923,0.252874,false,0.25,0.730769,0.230769,0.435897,0.076923,0.153846,9,4,0,11,0,4,0
+wetenschappelijk-onderzoek-en-documentatiecentru,Wetenschappelijk Onderzoek- en Documentatiecentrum,https://ror.org/0002exf56,facility,staff,4,,,,,true,,,,,,,,,,,,,
+royal-conservatory-the-hague,Royal Conservatory The Hague,https://ror.org/01mwwwn80,education,staff,6,0.381944,0.333333,0,0.470588,false,0.25,0.5,0.333333,0.555556,0,0.166667,4,2,0,3,26,1,0
+leiden-university-medical-center,Leiden University Medical Center,https://ror.org/05xvt9f17,healthcare,staff,1356,0.380178,0.339233,0.039823,0.173386,false,0.102692,0.587021,0.24115,0.568338,0.053097,0.190265,888,468,69,183,107,13,0
+amsterdam-university-of-the-arts,Amsterdam University of the Arts,https://ror.org/04dde1554,education,staff,21,0.37877,0.571429,0.095238,0.320261,false,0.202381,0.738095,0.333333,0.396825,0.190476,0.095238,17,4,0,9,21,4,0
+instituut-voor-de-nederlandse-taal,Instituut voor de Nederlandse Taal,https://ror.org/04m5bjk54,education,staff,9,,,,,true,,,,,,,,,,,,,
+dianet,Dianet,https://ror.org/01qsyak13,facility,staff,2,,,,,true,,,,,,,,,,,,,
+libra-revalidatie-audiologie,Libra Revalidatie & Audiologie,https://ror.org/04nae0247,facility,staff,2,,,,,true,,,,,,,,,,,,,
+oneplanet-research-center,OnePlanet Research Center,https://ror.org/033ztn746,facility,staff,2,,,,,true,,,,,,,,,,,,,
+imec-the-netherlands,Imec the Netherlands,https://ror.org/01ezq2j76,facility,staff,61,0.371858,0.393443,0.032787,0.422265,false,0.147541,0.565574,0.360656,0.535519,0.032787,0.098361,40,21,5,13,0,0,0
+nyenrode-business-university,Nyenrode Business University,https://ror.org/018528593,education,staff,91,0.371841,0.428571,0.021978,0.251694,false,0.200549,0.604396,0.296703,0.483516,0.021978,0.197802,65,26,7,7,27,1,0
+fryske-akademy,Fryske Akademy,https://ror.org/05fcmfe52,facility,staff,12,,,,,true,,,,,,,,,,,,,
+trimbos-institute,Trimbos Institute,https://ror.org/02amggm23,facility,staff,21,0.362698,0.428571,0.047619,0.094421,false,0.190476,0.52381,0.380952,0.492063,0.047619,0.142857,16,5,2,4,0,0,0
+theological-university-utrecht,Theological University Utrecht,https://ror.org/02x435584,education,staff,25,0.359833,0.28,0,0.087444,false,0.19,0.52,0.32,0.546667,0.04,0,13,12,1,0,4,2,0
+amsterdam-university-medical-centers,Amsterdam University Medical Centers,https://ror.org/05grdyy37,healthcare,staff,2051,0.359134,0.372989,0.036568,0.195411,false,0.098001,0.570453,0.231594,0.523972,0.05217,0.185763,1265,786,61,239,116,16,0
+amsterdam-neuroscience,Amsterdam Neuroscience,https://ror.org/01x2d9f70,facility,staff,9,,,,,true,,,,,,,,,,,,,
+stichting-wetenschappelijk-onderzoek-verkeersvei,Stichting Wetenschappelijk Onderzoek Verkeersveiligheid,https://ror.org/053tsx367,facility,staff,12,,,,,true,,,,,,,,,,,,,
+national-institute-for-public-health-and-the-env,National Institute for Public Health and the Environment,https://ror.org/01cesdt21,facility,staff,319,0.355316,0.316614,0.003135,0.255749,false,0.061912,0.53605,0.178683,0.582027,0.009404,0.163009,190,129,18,53,4,4,0
+netherlands-institute-for-the-study-of-crime-and,Netherlands Institute for the Study of Crime and Law Enforcement,https://ror.org/03124pm05,facility,staff,30,0.354861,0.466667,0.033333,0.203175,false,0.125,0.633333,0.3,0.455556,0.033333,0.166667,21,9,1,6,0,2,0
+university-of-twente,University of Twente,https://ror.org/006hf6230,education,staff,2125,0.354073,0.392941,0.028235,0.122119,false,0.183647,0.451294,0.245176,0.528627,0.035765,0.231529,927,1198,159,606,712,22,0
+iselinge-hogeschool,Iselinge Hogeschool,https://ror.org/047kqmy39,education,staff,5,0.3525,0.6,0.2,0.478261,false,0.35,0.4,0.4,0.4,0.2,0.2,2,3,0,0,0,0,0
+codarts-rotterdam,Codarts Rotterdam,https://ror.org/04vtvrr13,education,staff,13,0.352244,0.307692,0.076923,0.44,false,0.211538,0.423077,0.307692,0.564103,0.076923,0,6,7,0,1,15,1,0
+academie-verloskunde-amsterdam-groningen,Academie Verloskunde Amsterdam Groningen,https://ror.org/02nt7ap43,education,staff,2,,,,,true,,,,,,,,,,,,,
+university-for-peace,University for Peace,https://ror.org/002fzqp75,education,staff,2,,,,,true,,,,,,,,,,,,,
+netherlands-forensic-institute,Netherlands Forensic Institute,https://ror.org/04s2z4291,facility,staff,45,,,,,true,,,,,,,,,,,,,
+donders-centre-for-cognition,Donders Centre for Cognition,https://ror.org/05ft09q38,facility,staff,7,,,,,true,,,,,,,,,,,,,
+utrecht-university,Utrecht University,https://ror.org/04pp8hn57,education,staff,3634,0.347883,0.372867,0.036874,0.124787,false,0.128921,0.444551,0.236103,0.543387,0.055586,0.202807,1628,2006,431,736,1655,67,0
+radboud-university-nijmegen,Radboud University Nijmegen,https://ror.org/016xsfp80,education,staff,1484,0.347397,0.43531,0.040431,0.286197,false,0.143026,0.566038,0.275606,0.471698,0.058625,0.142183,958,526,61,445,903,50,0
+wageningen-university-research,Wageningen University & Research,https://ror.org/04qw24q55,education,staff,2738,0.346856,0.386048,0.034332,0.11581,false,0.111943,0.48046,0.242148,0.52167,0.050767,0.220964,1375,1363,280,491,1242,64,0
+university-of-humanistic-studies,University of Humanistic Studies,https://ror.org/04w5ec154,education,staff,62,0.345228,0.354839,0.032258,0.401207,false,0.149194,0.491935,0.209677,0.521505,0.080645,0.129032,36,26,1,6,17,5,0
+stichting-aeres-groep,Stichting Aeres Groep,https://ror.org/026e19k63,education,staff,4,,,,,true,,,,,,,,,,,,,
+maastricht-university-medical-centre,Maastricht University Medical Centre,https://ror.org/02d9ce178,healthcare,staff,417,0.342876,0.374101,0.01199,0.117561,false,0.090528,0.479616,0.165468,0.547562,0.014388,0.23741,214,203,13,26,26,5,0
+wittenborg-university,Wittenborg University,https://ror.org/020z55s31,education,staff,23,0.342572,0.521739,0.043478,0.41573,false,0.25,0.521739,0.478261,0.362319,0.043478,0.217391,15,8,0,2,4,2,0
+university-medical-center-utrecht,University Medical Center Utrecht,https://ror.org/0575yy874,healthcare,staff,1382,0.340997,0.354559,0.01809,0.137,false,0.090087,0.471418,0.198263,0.548239,0.032562,0.182344,721,661,42,170,67,7,0
+university-of-applied-sciences-utrecht,University of Applied Sciences Utrecht,https://ror.org/028z9kw20,education,staff,438,0.34062,0.472603,0.027397,0.217205,false,0.14726,0.649543,0.219178,0.429985,0.045662,0.116438,321,117,7,56,76,3,0
+erasmus-mc,Erasmus MC,https://ror.org/018906e22,healthcare,staff,1862,0.339751,0.382385,0.022019,0.138207,false,0.092374,0.52014,0.190655,0.518976,0.029001,0.182599,1005,857,123,239,177,16,0
+theological-university-of-apeldoorn,Theological University of Apeldoorn,https://ror.org/03s2fjy85,education,staff,10,0.337917,0.5,0,0.095238,false,0.175,0.65,0.1,0.433333,0.1,0.1,7,3,1,2,6,1,0
+avans-university-of-applied-sciences,Avans University of Applied Sciences,https://ror.org/015d5s513,education,staff,126,0.337566,0.492063,0.039683,0.221116,false,0.18254,0.611111,0.31746,0.410053,0.071429,0.055556,83,43,4,20,67,2,0
+maastricht-university,Maastricht University,https://ror.org/02jz4aj89,education,staff,2590,0.33744,0.418147,0.037452,0.165802,false,0.165734,0.462162,0.238224,0.496396,0.052896,0.172973,1202,1388,449,541,1351,45,0
+donders-centre-for-cognitive-neuroimaging,Donders Centre for Cognitive Neuroimaging,https://ror.org/01jdz5g73,facility,staff,5,,,,,true,,,,,,,,,,,,,
+leiden-university,Leiden University,https://ror.org/027bh9e22,education,staff,2621,0.3346,0.43533,0.043876,0.267422,false,0.130961,0.526707,0.249905,0.468523,0.059901,0.146509,1535,1086,76,544,1559,107,0
+brainclinics,Brainclinics,https://ror.org/00q8tg479,facility,staff,1,,,,,true,,,,,,,,,,,,,
+saxion,Saxion,https://ror.org/005t9n460,education,staff,168,0.332292,0.529762,0.029762,0.353096,false,0.151786,0.672619,0.279762,0.392857,0.041667,0.053571,124,44,10,14,62,2,0
+radboud-university-medical-center,Radboud University Medical Center,https://ror.org/05wg1m734,healthcare,staff,1381,0.332151,0.355539,0.018827,0.159612,false,0.086894,0.450036,0.19189,0.540188,0.030413,0.178132,673,708,40,134,84,10,0
+hogeschool-ipabo,Hogeschool iPabo,https://ror.org/0230zs006,education,staff,3,,,,,true,,,,,,,,,,,,,
+data-archiving-and-networked-services-dans,Data Archiving and Networked Services (DANS),https://ror.org/008pnp284,facility,staff,18,0.327315,0.555556,0,0.258503,false,0.194444,0.638889,0.277778,0.407407,0,0,13,5,1,5,1,0,0
+tilburg-university,Tilburg University,https://ror.org/04b8v1s79,education,staff,1091,0.326654,0.436297,0.028414,0.106628,false,0.177589,0.448213,0.211732,0.476932,0.039413,0.183318,459,632,464,380,331,21,0
+van-hall-larenstein-university-of-applied-scienc,Van Hall Larenstein University of Applied Sciences,https://ror.org/02mdbnd10,education,staff,50,0.325833,0.46,0.02,0.284404,false,0.15,0.55,0.28,0.426667,0.04,0.12,33,17,0,8,65,1,0
+international-bureau-of-fiscal-documentation,International Bureau of Fiscal Documentation,https://ror.org/00bscyw28,education,staff,17,0.32402,0.647059,0,0.45082,false,0.088235,0.764706,0.411765,0.333333,0,0,13,4,0,2,5,7,0
+driestar-christian-university,Driestar Christian University,https://ror.org/05jext738,education,staff,7,,,,,true,,,,,,,,,,,,,
+nhl-stenden-university-of-applied-sciences,NHL Stenden University of Applied Sciences,https://ror.org/02xgxme97,education,staff,146,0.323487,0.5,0.034247,0.292994,false,0.169521,0.589041,0.273973,0.399543,0.054795,0.075342,89,57,3,8,18,1,0
+hanze-university-of-applied-sciences,Hanze University of Applied Sciences,https://ror.org/00xqtxw43,education,staff,267,0.323252,0.513109,0.029963,0.241752,false,0.125468,0.646067,0.228464,0.403246,0.048689,0.06367,186,81,7,21,91,1,0
+vrije-universiteit-amsterdam,Vrije Universiteit Amsterdam,https://ror.org/008xxew50,education,staff,2800,0.321935,0.45,0.033214,0.128965,false,0.166429,0.452679,0.237143,0.465119,0.047143,0.152143,1202,1598,975,1212,1166,38,0
+breda-university-of-applied-sciences,Breda University of Applied Sciences,https://ror.org/04mfj5474,education,staff,80,0.320938,0.6,0.05,0.233397,false,0.21875,0.56875,0.3125,0.3375,0.075,0.175,51,29,3,11,20,2,0
+netherlands-school-of-public-administration,Netherlands School of Public Administration,https://ror.org/033958n71,education,staff,10,,,,,true,,,,,,,,,,,,,
+delft-university-of-technology,Delft University of Technology,https://ror.org/02e2c7k09,education,staff,4699,0.318674,0.452224,0.022984,0.181207,false,0.15897,0.45499,0.235369,0.451585,0.034901,0.187487,2092,2607,689,712,1294,42,0
+reade,Reade,https://ror.org/00bp9f906,facility,staff,11,,,,,true,,,,,,,,,,,,,
+centre-for-human-drug-research,Centre for Human Drug Research,https://ror.org/044hshx49,facility,staff,38,0.314145,0.342105,0,0.536232,false,0.059211,0.513158,0.157895,0.526316,0,0.026316,20,18,4,5,0,1,0
+gerrit-rietveld-academy,Gerrit Rietveld Academy,https://ror.org/053jpjd80,education,staff,9,0.313889,0.555556,0.111111,0.345679,false,0.166667,0.5,0.222222,0.444444,0.111111,0,5,4,1,4,22,3,0
+the-hague-university-of-applied-sciences,The Hague University of Applied Sciences,https://ror.org/021zvq422,education,staff,169,0.312673,0.52071,0.011834,0.561873,false,0.139053,0.573964,0.284024,0.380671,0.023669,0.130178,109,60,6,21,49,3,0
+katholieke-pabo-zwolle,Katholieke Pabo Zwolle,https://ror.org/05nrjb178,education,staff,3,,,,,true,,,,,,,,,,,,,
+african-studies-centre,African Studies Centre,https://ror.org/00ma2r948,facility,staff,5,0.310833,0.4,0.2,0.166667,false,0.05,0.2,0.6,0.466667,0.2,0.2,2,3,0,3,1,22,0
+eindhoven-university-of-technology,Eindhoven University of Technology,https://ror.org/02c2kyt77,education,staff,2269,0.309661,0.448215,0.022918,0.142745,false,0.146871,0.42045,0.29881,0.44895,0.027325,0.137946,1233,1036,67,358,654,16,0
+waag-futurelab,Waag Futurelab,https://ror.org/041pa7h16,facility,staff,11,0.307576,0.727273,0,0.533333,false,0.090909,0.681818,0.636364,0.242424,0,0.090909,8,3,1,3,0,2,0
+windesheim-university-of-applied-sciences,Windesheim University of Applied Sciences,https://ror.org/04zmc0e16,education,staff,77,0.307143,0.493506,0.012987,0.503876,false,0.12987,0.642857,0.233766,0.376623,0.012987,0.025974,52,25,4,10,26,2,0
+has-green-academy,HAS green academy,https://ror.org/05p706d77,education,staff,35,0.30369,0.542857,0,0.253275,false,0.107143,0.614286,0.228571,0.380952,0,0.085714,24,11,0,1,23,0,0
+maastricht-school-of-management,Maastricht School of Management,https://ror.org/04zb8fk81,education,staff,13,0.302564,0.307692,0,0.52381,false,0.230769,0.346154,0.307692,0.435897,0,0.153846,4,9,0,4,80,1,0
+viaa-christian-university-of-applied-sciences,Viaa Christian University of Applied Sciences,https://ror.org/02ar29j81,education,staff,17,0.302206,0.529412,0,0.389831,false,0.132353,0.647059,0.235294,0.352941,0,0.058824,10,7,0,0,0,0,0
+han-university-of-applied-sciences,HAN University of Applied Sciences,https://ror.org/0500gea42,education,staff,170,0.30049,0.511765,0.005882,0.302094,false,0.117647,0.544118,0.217647,0.398039,0.017647,0.111765,98,72,7,14,76,2,0
+institute-for-the-study-of-education-and-human-d,Institute for the Study of Education and Human Development,https://ror.org/03hxrmn64,facility,staff,1,,,,,true,,,,,,,,,,,,,
+menasseh-ben-israel-institute,Menasseh Ben Israel Institute,https://ror.org/03120tz42,facility,staff,1,,,,,true,,,,,,,,,,,,,
+zuyd-university-of-applied-sciences,Zuyd University of Applied Sciences,https://ror.org/02m6k0m40,education,staff,81,0.298817,0.481481,0.012346,0.354354,false,0.114198,0.561728,0.185185,0.399177,0.012346,0.098765,46,35,3,9,54,1,0
+united-nations-university-maastricht-economic-an,United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology,https://ror.org/053zwxr79,facility,staff,28,0.297619,0.357143,0.071429,0.284615,false,0.071429,0.321429,0.142857,0.52381,0.071429,0.178571,9,19,0,6,26,2,0
+aeres-university-of-applied-sciences,Aeres University of Applied Sciences,https://ror.org/03jnx2c74,education,staff,22,0.297159,0.545455,0.090909,0.315217,false,0.102273,0.522727,0.318182,0.363636,0.090909,0.090909,14,8,0,1,12,1,0
+protestant-theological-university,Protestant Theological University,https://ror.org/016w23120,education,staff,31,0.297043,0.548387,0.032258,0.626866,false,0.177419,0.693548,0.129032,0.311828,0.064516,0.032258,23,8,1,2,8,0,0
+verwey-jonker-institute,Verwey Jonker Institute,https://ror.org/017hmby02,facility,staff,10,,,,,true,,,,,,,,,,,,,
+artez-university-of-the-arts,ArtEZ University of the Arts,https://ror.org/05az93f25,education,staff,34,0.295221,0.705882,0.117647,0.72549,false,0.154412,0.632353,0.352941,0.264706,0.117647,0.058824,23,11,1,4,21,4,0
+fontys-university-of-applied-sciences,Fontys University of Applied Sciences,https://ror.org/01jwcme05,education,staff,151,0.288907,0.556291,0,0.424383,false,0.155629,0.546358,0.225166,0.357616,0.02649,0.059603,92,59,3,10,70,1,0
+koning-willem-i-college,Koning Willem I College,https://ror.org/01rps2j56,education,staff,5,,,,,true,,,,,,,,,,,,,
+leyden-academy-on-vitality-and-ageing,Leyden Academy on Vitality and Ageing,https://ror.org/00txvrc11,facility,staff,16,,,,,true,,,,,,,,,,,,,
+hogeschool-de-kempel,Hogeschool de Kempel,https://ror.org/056k6yz11,education,staff,1,,,,,true,,,,,,,,,,,,,
+instituut-verbeeten,Instituut Verbeeten,https://ror.org/02ymhq538,facility,staff,2,,,,,true,,,,,,,,,,,,,
+academic-center-for-dentistry-amsterdam,Academic Center for Dentistry Amsterdam,https://ror.org/04x5wnb75,education,staff,122,0.272439,0.5,0.016393,0.109501,false,0.092213,0.413934,0.163934,0.418033,0.016393,0.114754,50,72,4,6,8,5,0
+inholland-university-of-applied-sciences,Inholland University of Applied Sciences,https://ror.org/03cfsyg37,education,staff,96,0.269965,0.614583,0,0.463768,false,0.09375,0.598958,0.239583,0.305556,0.010417,0.041667,60,36,0,10,23,2,0
+open-data-infrastructure-for-social-science-and-,Open Data Infrastructure for Social Science and Economic Innovations,https://ror.org/03m8v6t10,facility,staff,2,,,,,true,,,,,,,,,,,,,
+amsterdam-university-college,Amsterdam University College,https://ror.org/03dpjfc73,education,staff,14,0.26756,0.5,0.071429,0.637931,false,0.125,0.392857,0.214286,0.404762,0.071429,0,7,7,1,4,51,1,0
+the-hague-centre-for-strategic-studies,The Hague Centre for Strategic Studies,https://ror.org/05ttdrn83,facility,staff,6,,,,,true,,,,,,,,,,,,,
+international-new-town-institute,International New Town Institute,https://ror.org/027zjnr49,education,staff,4,,,,,true,,,,,,,,,,,,,
+rotterdam-university-of-applied-sciences,Rotterdam University of Applied Sciences,https://ror.org/0481e1q24,education,staff,147,0.243226,0.646259,0.020408,0.317254,false,0.096939,0.537415,0.183673,0.274376,0.027211,0.040816,85,62,2,14,49,2,0
+basilar-artery-international-cooperation-study,BASilar artery International Cooperation Study,https://ror.org/014dvgf17,education,staff,1,,,,,true,,,,,,,,,,,,,
+hfml-felix,HFML-FELIX,https://ror.org/03tkwyq76,facility,staff,8,,,,,true,,,,,,,,,,,,,
+marnix-academie,Marnix Academie,https://ror.org/03xws5b35,education,staff,4,,,,,true,,,,,,,,,,,,,
+university-of-applied-sciences-leiden,University of Applied Sciences Leiden,https://ror.org/0093src13,education,staff,90,0.22,0.677778,0.011111,0.154562,false,0.066667,0.488889,0.144444,0.266667,0.011111,0.033333,46,44,0,9,56,0,0
+university-of-the-arts-utrecht,University of the Arts Utrecht,https://ror.org/018bzp792,education,staff,14,0.21756,0.571429,0,0.212121,false,0.053571,0.321429,0.214286,0.333333,0.071429,0,5,9,1,4,12,1,0
+materials-innovation-institute,Materials innovation institute,https://ror.org/00fyemf28,facility,staff,2,,,,,true,,,,,,,,,,,,,
+netherlands-institute-for-innovative-ocular-surg,Netherlands Institute for Innovative Ocular Surgery,https://ror.org/04hmqap24,facility,staff,3,,,,,true,,,,,,,,,,,,,
+bertrand-russell-college,Bertrand Russell College,https://ror.org/002g6sj22,education,staff,1,,,,,true,,,,,,,,,,,,,
+bonaventuracollege,Bonaventuracollege,https://ror.org/03nk3sc73,education,staff,2,,,,,true,,,,,,,,,,,,,
+c-t-de-wit-graduate-school-for-production-ecolog,C.T. de Wit Graduate School for Production Ecology and Resource Conservation,https://ror.org/020dp5a36,education,staff,1,,,,,true,,,,,,,,,,,,,
+christelijk-gymnasium-utrecht,Christelijk Gymnasium Utrecht,https://ror.org/02gd5t807,education,staff,1,,,,,true,,,,,,,,,,,,,
+dutch-research-school-for-medieval-studies,Dutch Research School for Medieval Studies,https://ror.org/03bkq6a07,education,staff,1,,,,,true,,,,,,,,,,,,,
+expertise-center-vocational-education,Expertise Center Vocational Education,https://ror.org/05jrbdv26,education,staff,1,,,,,true,,,,,,,,,,,,,
+institute-for-theoretical-physics-amsterdam,Institute for Theoretical Physics Amsterdam,https://ror.org/011p0ty46,facility,staff,1,,,,,true,,,,,,,,,,,,,
+national-initiative-brain-cognition,National Initiative Brain & Cognition,https://ror.org/0460chp58,facility,staff,1,,,,,true,,,,,,,,,,,,,
+netherlands-center-for-occupational-diseases,Netherlands Center for Occupational Diseases,https://ror.org/00jtnvh80,facility,staff,2,,,,,true,,,,,,,,,,,,,
+netherlands-graduate-research-school-of-science-,"Netherlands Graduate Research School of Science, Technology and Modern Culture",https://ror.org/025fr4535,education,staff,1,,,,,true,,,,,,,,,,,,,
+netherlands-heart-institute,Netherlands Heart Institute,https://ror.org/01mh6b283,facility,staff,1,,,,,true,,,,,,,,,,,,,
+sprint,SPRINT,https://ror.org/01jbeyb43,facility,staff,1,,,,,true,,,,,,,,,,,,,
+via-vinci-academy,Via Vinci Academy,https://ror.org/026rmnx29,education,staff,1,,,,,true,,,,,,,,,,,,,
+christian-university-of-applied-sciences,Christian University of Applied Sciences,https://ror.org/04tj5wz42,education,staff,32,0.188281,0.75,0.0625,0.347826,false,0.046875,0.5,0.0625,0.1875,0.0625,0.03125,16,16,0,0,6,0,0
+tinbergen-institute,Tinbergen Institute,https://ror.org/054xxtt73,education,staff,14,0.17619,0.785714,0,0.119048,false,0.071429,0.357143,0.142857,0.166667,0,0.214286,3,11,1,1,24,2,0
+rotterdam-study,Rotterdam Study,https://ror.org/02ac58f22,facility,staff,5,,,,,true,,,,,,,,,,,,,
+alfa-college,Alfa College,https://ror.org/030ms0k96,education,staff,10,0.14,1,0,0,false,0,0.7,0,0,0,0,7,3,0,0,0,0,0
+medicines-evaluation-board,Medicines Evaluation Board,https://ror.org/05mv4rb84,education,staff,379,,,,,true,,,,,,,,,,,,,
+parnassia-groep-academie,Parnassia Groep Academie,https://ror.org/029pyqp16,education,staff,10,0.131667,0.7,0,0.5,false,0,0.2,0.1,0.233333,0,0,2,8,0,0,0,0,0
+panteia-netherlands,Panteia (Netherlands),https://ror.org/00p5j4e25,facility,staff,4,,,,,true,,,,,,,,,,,,,
+top-institute-pharma,Top Institute Pharma,https://ror.org/01qmxzb47,facility,staff,7,0.125,1,0,0,false,0.071429,0.571429,0,0,0,0,4,3,0,0,0,0,0
+friesland-college,Friesland College,https://ror.org/02fq0hm69,education,staff,1,,,,,true,,,,,,,,,,,,,
+holland-chemistry,Holland Chemistry,https://ror.org/007bss615,facility,staff,2,,,,,true,,,,,,,,,,,,,
+institute-for-high-energy-physics,Institute for High Energy Physics,https://ror.org/04y6n3q27,facility,staff,4,,,,,true,,,,,,,,,,,,,
+institute-for-social-sciences-and-humanities-iss,Institute for Social Sciences and Humanities - ISSH (Iran Academia),https://ror.org/017xhef20,education,staff,2,,,,,true,,,,,,,,,,,,,
+netherlands-institute-for-advanced-study-in-the-,Netherlands Institute for Advanced Study in the Humanities and Social Sciences,https://ror.org/04z3wz653,facility,staff,2,,,,,true,,,,,,,,,,,,,
+habeo,Habeo+,https://ror.org/003meye08,education,staff,7,0.1,1,0,0,false,0,0.428571,0.142857,0,0,0,3,4,0,0,8,0,0
+ddl-diagnostic-laboratory,DDL Diagnostic Laboratory,https://ror.org/04xdr5k48,facility,staff,3,,,,,true,,,,,,,,,,,,,
+nectaerra,Nectaerra,https://ror.org/0072ngz93,facility,staff,3,,,,,true,,,,,,,,,,,,,
+scalda,Scalda,https://ror.org/01dcz6f16,education,staff,3,,,,,true,,,,,,,,,,,,,
+citylab010,CityLab010,https://ror.org/01qyj4j90,facility,staff,1,,,,,true,,,,,,,,,,,,,
+hague-academy-of-international-law,Hague Academy of International Law,https://ror.org/03skjap48,education,staff,1,,,,,true,,,,,,,,,,,,,
+institute-for-programming-research-and-algorithm,Institute for Programming research and Algorithmics,https://ror.org/04jxbkz90,education,staff,2,,,,,true,,,,,,,,,,,,,
+international-research-universities-network,International Research Universities Network,https://ror.org/04484bb06,education,staff,1,,,,,true,,,,,,,,,,,,,
+middelbaar-beroeps-onderwijs,Middelbaar Beroeps Onderwijs,https://ror.org/004pfc251,education,staff,1,,,,,true,,,,,,,,,,,,,
+netherlands-graduate-school-of-linguistics,Netherlands Graduate School of Linguistics,https://ror.org/05dbptw67,education,staff,1,,,,,true,,,,,,,,,,,,,
+netherlands-research-school-for-literary-studies,Netherlands Research School for Literary Studies,https://ror.org/04mx1wt49,education,staff,1,,,,,true,,,,,,,,,,,,,
+nti-university,NTI University,https://ror.org/025gshh98,education,staff,2,,,,,true,,,,,,,,,,,,,
+terra,Terra,https://ror.org/01dn09e98,education,staff,2,,,,,true,,,,,,,,,,,,,
+udens-college,Udens College,https://ror.org/04ryr8437,education,staff,1,,,,,true,,,,,,,,,,,,,

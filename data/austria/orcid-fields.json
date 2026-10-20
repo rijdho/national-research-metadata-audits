@@ -1,0 +1,62 @@
+{
+  "biography": {
+    "overall": 0.11629194232847466,
+    "education": 0.11627064820747096,
+    "facility": 0.11666666666666667
+  },
+  "keywords": {
+    "overall": 0.18250349244840403,
+    "education": 0.18295774255550293,
+    "facility": 0.17450980392156862
+  },
+  "country": {
+    "overall": 0.2745196236063154,
+    "education": 0.2749380205576757,
+    "facility": 0.26715686274509803
+  },
+  "urls": {
+    "overall": 0.3208308073486386,
+    "education": 0.3199253461099195,
+    "facility": 0.33676470588235297
+  },
+  "employment_dated": {
+    "overall": 0.6336751100450724,
+    "education": 0.627064820747096,
+    "facility": 0.75
+  },
+  "employment_ror_elsewhere": {
+    "overall": 0.3908498201438849,
+    "education": 0.3900845273065164,
+    "facility": 0.40234023402340235
+  },
+  "education": {
+    "overall": 0.5061546166214186,
+    "education": 0.5057522493662776,
+    "facility": 0.513235294117647
+  },
+  "has_works": {
+    "overall": 0.7129866364427107,
+    "education": 0.7091562439065155,
+    "facility": 0.7803921568627451
+  },
+  "works_5plus": {
+    "overall": 0.47349692928121456,
+    "education": 0.47026379564890386,
+    "facility": 0.5303921568627451
+  },
+  "works_with_doi": {
+    "overall": 0.6752681936793273,
+    "education": 0.6709657650630937,
+    "facility": 0.7509803921568627
+  },
+  "funding": {
+    "overall": 0.13785286907931152,
+    "education": 0.13713473912922367,
+    "facility": 0.15049019607843137
+  },
+  "peer_review": {
+    "overall": 0.17939323651124173,
+    "education": 0.17900220061840164,
+    "facility": 0.18627450980392157
+  }
+}

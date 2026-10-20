@@ -1,0 +1,489 @@
+[
+  {
+    "id": "ylqb",
+    "name": "Distributed System of Scientific Collections",
+    "rorId": "https://ror.org/02wddde16",
+    "memberType": "direct_member",
+    "repoCount": 1,
+    "dois": 12728937,
+    "avgCompleteness": 0.5832398455581954,
+    "software": [
+      "Custom / institutional"
+    ]
+  },
+  {
+    "id": "elsevier",
+    "name": "Elsevier (Mendeley Data)",
+    "rorId": "https://ror.org/02scfj030",
+    "memberType": "direct_member",
+    "repoCount": 2,
+    "dois": 352686,
+    "avgCompleteness": 0.4659442109978848,
+    "software": [
+      "Mendeley Data"
+    ]
+  },
+  {
+    "id": "dans",
+    "name": "Data Archiving and Networked Services",
+    "rorId": "https://ror.org/008pnp284",
+    "memberType": "direct_member",
+    "repoCount": 3,
+    "dois": 200964,
+    "avgCompleteness": 0.4550995992941829,
+    "software": [
+      "Dataverse"
+    ]
+  },
+  {
+    "id": "scpr",
+    "name": "4TU.ResearchData",
+    "rorId": "https://ror.org/02d887280",
+    "memberType": "direct_member",
+    "repoCount": 1,
+    "dois": 21807,
+    "avgCompleteness": 0.6118409990675777,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "lmbt",
+    "name": "TU Delft",
+    "rorId": "https://ror.org/02e2c7k09",
+    "memberType": "consortium_organization",
+    "repoCount": 10,
+    "dois": 7716,
+    "avgCompleteness": 0.3649774627825409,
+    "software": [
+      "Islandora",
+      "OJS",
+      "WordPress",
+      "other"
+    ]
+  },
+  {
+    "id": "pixn",
+    "name": "Eindhoven University of Technology",
+    "rorId": "https://ror.org/02c2kyt77",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 5007,
+    "avgCompleteness": 0.31727114566086806,
+    "software": [
+      "OJS"
+    ]
+  },
+  {
+    "id": "alts",
+    "name": "UvA/HvA Library",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 3,
+    "dois": 4628,
+    "avgCompleteness": 0.39373887791916534,
+    "software": [
+      "Figshare"
+    ]
+  },
+  {
+    "id": "xknl",
+    "name": "JIV-ERIC",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 4318,
+    "avgCompleteness": 0.32987880191446656,
+    "software": []
+  },
+  {
+    "id": "dhcm",
+    "name": "Erasmus University Library",
+    "rorId": "https://ror.org/057w15z03",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 3722,
+    "avgCompleteness": 0.31275747805839155,
+    "software": [
+      "OJS"
+    ]
+  },
+  {
+    "id": "neup",
+    "name": "RIVM - Rijksinstituut voor Volksgezondheid en Milieu",
+    "rorId": "https://ror.org/01cesdt21",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 2163,
+    "avgCompleteness": 0.2622515025427647,
+    "software": [
+      "DSpace"
+    ]
+  },
+  {
+    "id": "pzax",
+    "name": "Utrecht University",
+    "rorId": "https://ror.org/04pp8hn57",
+    "memberType": "consortium_organization",
+    "repoCount": 6,
+    "dois": 1821,
+    "avgCompleteness": 0.5033778964816755,
+    "software": [
+      "CKAN",
+      "Custom / institutional",
+      "InvenioRDM",
+      "other"
+    ]
+  },
+  {
+    "id": "mkka",
+    "name": "SURF",
+    "rorId": "https://ror.org/009vhk114",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 1679,
+    "avgCompleteness": 0.2907573812580231,
+    "software": [
+      "Fedora"
+    ]
+  },
+  {
+    "id": "nqkf",
+    "name": "Radboud University",
+    "rorId": "https://ror.org/016xsfp80",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 1281,
+    "avgCompleteness": 0.6031746031746031,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "jfch",
+    "name": "Centerdata",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 1269,
+    "avgCompleteness": 0.2331231941161019,
+    "software": []
+  },
+  {
+    "id": "hilo",
+    "name": "Sociaal en Cultureel Planbureau",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 1200,
+    "avgCompleteness": 0.4698611111111111,
+    "software": []
+  },
+  {
+    "id": "pohb",
+    "name": "GreyNet International",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 785,
+    "avgCompleteness": 0.37855626326963904,
+    "software": []
+  },
+  {
+    "id": "qyec",
+    "name": "TNO",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 770,
+    "avgCompleteness": 0.3933376736111111,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "yctd",
+    "name": "Tilburg University Library",
+    "rorId": "https://ror.org/04b8v1s79",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 743,
+    "avgCompleteness": 0.28488111260655,
+    "software": []
+  },
+  {
+    "id": "kuuu",
+    "name": "IHE Delft Institute for Water Education",
+    "rorId": "https://ror.org/030deh410",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 655,
+    "avgCompleteness": 0.16692111959287534,
+    "software": []
+  },
+  {
+    "id": "vioj",
+    "name": "Leiden University",
+    "rorId": "https://ror.org/027bh9e22",
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 553,
+    "avgCompleteness": 0.27566604708798015,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "nioz",
+    "name": "Royal Netherlands Institute for Sea Research",
+    "rorId": "https://ror.org/01gntjh03",
+    "memberType": "direct_member",
+    "repoCount": 1,
+    "dois": 444,
+    "avgCompleteness": 0.45927177177177175,
+    "software": [
+      "Dataverse"
+    ]
+  },
+  {
+    "id": "yajd",
+    "name": "VU Amsterdam Library",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 2,
+    "dois": 226,
+    "avgCompleteness": 0.43051980551980557,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "ghfg",
+    "name": "Rijksuniversiteit Groningen",
+    "rorId": "https://ror.org/012p63287",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 173,
+    "avgCompleteness": 0.4113680154142582,
+    "software": []
+  },
+  {
+    "id": "lzdh",
+    "name": "European Holocaust Research Infrastructure (EHRI-ERIC)",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 131,
+    "avgCompleteness": 0.5006361323155216,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "gmyj",
+    "name": "Open Universiteit",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 101,
+    "avgCompleteness": 0.2417491749174918,
+    "software": [
+      "Pure"
+    ]
+  },
+  {
+    "id": "dfvb",
+    "name": "ISRIC - World Soil Information",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 93,
+    "avgCompleteness": 0.4157706093189964,
+    "software": [
+      "unknown"
+    ]
+  },
+  {
+    "id": "bnwc",
+    "name": "IFLA – International Federation of Library Associations and Institutions",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 75,
+    "avgCompleteness": 0.5,
+    "software": [
+      "DSpace"
+    ]
+  },
+  {
+    "id": "qtiv",
+    "name": "International Association for the Evaluation of Educational Achievement",
+    "rorId": "https://ror.org/00n789a42",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 65,
+    "avgCompleteness": 0.6538461538461539,
+    "software": [
+      "Drupal"
+    ]
+  },
+  {
+    "id": "dkgv",
+    "name": "Centraal Planbureau",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 59,
+    "avgCompleteness": 0.2231638418079096,
+    "software": []
+  },
+  {
+    "id": "cosa",
+    "name": "Kennisinstituut voor Mobiliteitsbeleid (KiM)",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 53,
+    "avgCompleteness": 0.4119496855345912,
+    "software": []
+  },
+  {
+    "id": "dyei",
+    "name": "Royal Netherlands Meteorological Institute",
+    "rorId": "https://ror.org/05dfgh554",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 51,
+    "avgCompleteness": 0.5506535947712418,
+    "software": [
+      "unknown"
+    ]
+  },
+  {
+    "id": "fuyx",
+    "name": "Wageningen University & Research",
+    "rorId": "https://ror.org/04qw24q55",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 48,
+    "avgCompleteness": 0.6788194444444445,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "yrjy",
+    "name": "Royal Netherlands Academy of Arts and Sciences - KNAW",
+    "rorId": "https://ror.org/043c0p156",
+    "memberType": "consortium_organization",
+    "repoCount": 6,
+    "dois": 36,
+    "avgCompleteness": 0.21001683501683502,
+    "software": [
+      "Drupal",
+      "WordPress"
+    ]
+  },
+  {
+    "id": "ecdg",
+    "name": "MAASTRO Clinic",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 29,
+    "avgCompleteness": 0.22126436781609193,
+    "software": [
+      "Drupal"
+    ]
+  },
+  {
+    "id": "aygm",
+    "name": "UMC Utrecht",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 22,
+    "avgCompleteness": 0.16666666666666666,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "lbyv",
+    "name": "Nikhef - National Institute for Subatomic Physics",
+    "rorId": "https://ror.org/00f9tz983",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 16,
+    "avgCompleteness": 0.4947916666666667,
+    "software": [
+      "other"
+    ]
+  },
+  {
+    "id": "qxta",
+    "name": "euroCRIS",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 6,
+    "avgCompleteness": 0.375,
+    "software": [
+      "DSpace"
+    ]
+  },
+  {
+    "id": "opvj",
+    "name": "Rijksmuseum",
+    "rorId": "https://ror.org/006wjwp03",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 5,
+    "avgCompleteness": 0.6333333333333333,
+    "software": []
+  },
+  {
+    "id": "nsqb",
+    "name": "IGRAC - International Groundwater Resources Assessment Centre",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 4,
+    "avgCompleteness": 0.5,
+    "software": [
+      "GeoNode"
+    ]
+  },
+  {
+    "id": "uvog",
+    "name": "Fontys",
+    "rorId": null,
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 2,
+    "avgCompleteness": 0.16666666666666666,
+    "software": [
+      "Pure"
+    ]
+  },
+  {
+    "id": "zdvu",
+    "name": "Koninklijke Bibliotheek",
+    "rorId": "https://ror.org/02w4jbg70",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 0,
+    "avgCompleteness": null,
+    "software": []
+  },
+  {
+    "id": "vaor",
+    "name": "Maastricht University",
+    "rorId": "https://ror.org/02jz4aj89",
+    "memberType": "consortium_organization",
+    "repoCount": 1,
+    "dois": 0,
+    "avgCompleteness": null,
+    "software": []
+  }
+]

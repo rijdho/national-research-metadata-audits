@@ -1,0 +1,15 @@
+{
+  "name": "national-research-metadata-audits",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Metadata completeness of research repositories and ORCID profiles, country by country.",
+  "license": "MIT",
+  "scripts": {
+    "export": "node scripts/export.mjs",
+    "numbers": "node scripts/numbers.mjs > NUMBERS.md",
+    "test": "node --test tests/*.test.mjs",
+    "dev": "cd web && npm run dev",
+    "build": "cd web && npm run build"
+  }
+}
