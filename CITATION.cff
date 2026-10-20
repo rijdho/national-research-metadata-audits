@@ -3,8 +3,8 @@ message: "If you use these audits or their data, please cite them as below."
 title: "National research metadata audits: Austria and the Netherlands"
 abstract: >-
   Country by country, the metadata completeness and FAIR scores of the repositories registered at
-  DataCite by the country's members, and the completeness of the ORCID profiles publicly affiliated
-  with the country's education and research organisations in ROR, for all affiliated profiles and for
+  DataCite by the country's members, and the completeness of the ORCID profiles whose public
+  affiliation to one of the country's education and research organisations carries its ROR id, for all affiliated profiles and for
   current staff. Covers Austria and the Netherlands. The aggregated results in data/ are under
   CC BY 4.0; the code is under MIT. Profile-level data are available for research on request.
 type: software
