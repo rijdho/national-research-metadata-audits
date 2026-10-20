@@ -19,8 +19,8 @@ identifiers:
     value: 10.5281/zenodo.23498571
     description: "Concept DOI, always resolves to the latest version"
   - type: doi
-    value: 10.5281/zenodo.23498572
-    description: "Version DOI for v0.1.0"
+    value: 10.5281/zenodo.23499861
+    description: "Version DOI for v0.2.0"
 repository-code: "https://github.com/rijdho/national-research-metadata-audits"
 url: "https://rijdho.github.io/national-research-metadata-audits/"
 license: MIT
