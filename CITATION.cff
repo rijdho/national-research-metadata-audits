@@ -7,6 +7,7 @@ abstract: >-
   affiliation to one of the country's education and research organisations carries its ROR id, for all affiliated profiles and for
   current staff. Covers Austria and the Netherlands. The aggregated results in data/ are under
   CC BY 4.0; the code is under MIT. Profile-level data are available for research on request.
+  It runs at https://rijdho.github.io/national-research-metadata-audits/.
 type: software
 authors:
   - family-names: "Hartley Belmar"
